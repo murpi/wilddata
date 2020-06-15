@@ -1,0 +1,1613 @@
+Country,Variety,points avg,price avg,count
+Argentina,Barbera,85.0,18.0,1
+Argentina,Bonarda,86.5047619047619,16.62857142857143,105
+Argentina,Bordeaux-style Red Blend,89.82022471910112,41.54651162790697,89
+Argentina,Bordeaux-style White Blend,83.0,14.0,1
+Argentina,Cabernet Blend,88.25,36.25,8
+Argentina,Cabernet Franc,89.421875,45.109375,64
+Argentina,Cabernet Franc-Cabernet Sauvignon,88.66666666666667,40.666666666666664,3
+Argentina,Cabernet Franc-Malbec,91.0,58.5,4
+Argentina,Cabernet Sauvignon,86.04814814814814,19.488805970149254,540
+Argentina,Cabernet Sauvignon-Cabernet Franc,84.0,18.0,1
+Argentina,Cabernet Sauvignon-Malbec,86.91666666666667,44.583333333333336,12
+Argentina,Cabernet Sauvignon-Merlot,87.0,19.0,5
+Argentina,Cabernet Sauvignon-Shiraz,85.33333333333333,10.0,3
+Argentina,Cabernet Sauvignon-Syrah,86.0,15.0,2
+Argentina,Cabernet-Malbec,86.0,11.0,1
+Argentina,Cabernet-Syrah,88.0,16.0,1
+Argentina,Champagne Blend,85.125,22.571428571428573,8
+Argentina,Chardonnay,84.9457627118644,17.453287197231834,295
+Argentina,Chardonnay-Sauvignon,84.5,12.5,2
+Argentina,Chardonnay-Semillon,81.0,13.0,1
+Argentina,Chardonnay-Viognier,85.16666666666667,16.666666666666668,6
+Argentina,Chenin Blanc,84.0,15.5,2
+Argentina,Chenin Blanc-Chardonnay,85.8,11.0,5
+Argentina,Gewürztraminer,84.0,25.0,1
+Argentina,Malbec,87.50331125827815,27.95797198132088,1510
+Argentina,Malbec Blend,90.5,66.5,2
+Argentina,Malbec-Bonarda,86.4,17.8,5
+Argentina,Malbec-Cabernet,91.66666666666667,113.33333333333333,3
+Argentina,Malbec-Cabernet Franc,88.7,38.8,10
+Argentina,Malbec-Cabernet Sauvignon,88.42857142857143,41.482142857142854,56
+Argentina,Malbec-Merlot,86.28571428571429,21.0,7
+Argentina,Malbec-Petit Verdot,91.0,39.5,4
+Argentina,Malbec-Syrah,85.625,15.0,16
+Argentina,Malbec-Tannat,84.66666666666667,36.666666666666664,3
+Argentina,Malbec-Tempranillo,86.5,11.0,2
+Argentina,Merlot,85.03389830508475,17.75862068965517,59
+Argentina,Merlot-Cabernet Franc,87.0,27.0,1
+Argentina,Moscatel,81.0,11.0,1
+Argentina,Moscato,82.18181818181819,9.636363636363637,11
+Argentina,Nebbiolo,88.75,64.0,4
+Argentina,Petit Verdot,88.5,37.6,10
+Argentina,Pinot Grigio,83.77777777777777,10.88888888888889,27
+Argentina,Pinot Gris,84.88888888888889,12.571428571428571,9
+Argentina,Pinot Noir,85.64761904761905,22.980582524271846,105
+Argentina,Red Blend,88.3974358974359,34.14537444933921,234
+Argentina,Riesling,86.0,15.0,2
+Argentina,Rosado,86.66666666666667,12.0,3
+Argentina,Rosé,84.13157894736842,13.432432432432432,38
+Argentina,Sangiovese,81.5,18.0,2
+Argentina,Sauvignon Blanc,84.34615384615384,14.833333333333334,78
+Argentina,Shiraz,84.375,8.625,8
+Argentina,Shiraz-Malbec,90.0,16.0,1
+Argentina,Sparkling Blend,84.62068965517241,17.517241379310345,29
+Argentina,Syrah,85.78947368421052,17.375,57
+Argentina,Syrah-Bonarda,87.0,13.0,1
+Argentina,Syrah-Malbec,89.0,14.0,1
+Argentina,Syrah-Viognier,90.66666666666667,58.333333333333336,3
+Argentina,Sémillon,83.58333333333333,17.916666666666668,12
+Argentina,Tannat,86.5,22.0,4
+Argentina,Tempranillo,83.55,13.5,20
+Argentina,Tempranillo-Malbec,91.0,,1
+Argentina,Tocai,85.0,14.0,1
+Argentina,Torrontés,85.48571428571428,13.53305785123967,245
+Argentina,Trebbiano,83.0,9.0,1
+Argentina,Trousseau,88.0,60.0,1
+Argentina,Viognier,84.42857142857143,13.380952380952381,21
+Argentina,White Blend,84.875,20.741935483870968,32
+Armenia,Kangoun,87.0,14.0,1
+Armenia,Rosé,88.0,15.0,1
+Australia,Bordeaux-style Red Blend,89.13793103448276,67.41379310344827,29
+Australia,Cabernet Blend,88.66666666666667,37.333333333333336,3
+Australia,Cabernet Merlot,86.8,23.4,5
+Australia,Cabernet Sauvignon,89.25187969924812,35.44106463878327,266
+Australia,Cabernet Sauvignon-Merlot,88.54545454545455,32.54545454545455,11
+Australia,Cabernet Sauvignon-Merlot-Shiraz,91.0,20.0,2
+Australia,Cabernet Sauvignon-Sangiovese,88.0,30.0,1
+Australia,Cabernet Sauvignon-Shiraz,89.9090909090909,43.45454545454545,11
+Australia,Cabernet-Shiraz,96.0,150.0,1
+Australia,Champagne Blend,86.125,23.5,8
+Australia,Chardonnay,87.3175,25.445569620253163,400
+Australia,Chardonnay-Semillon,89.66666666666667,18.333333333333332,3
+Australia,Chenin Blanc,87.0,16.0,1
+Australia,Durif,86.0,32.5,2
+Australia,G-S-M,89.38461538461539,28.76,26
+Australia,Grenache,89.55263157894737,45.19736842105263,76
+Australia,Grenache-Shiraz,88.0,25.5,4
+Australia,Malbec,86.8,65.6,5
+Australia,Marsanne,89.4,25.4,5
+Australia,Marsanne-Roussanne,88.0,42.5,2
+Australia,Mataro,90.5,62.166666666666664,6
+Australia,Merlot,85.73684210526316,20.68421052631579,19
+Australia,Montepulciano,91.0,25.0,1
+Australia,Moscato,85.53846153846153,12.076923076923077,13
+Australia,Mourvèdre,91.0,50.285714285714285,7
+Australia,Mourvèdre-Syrah,92.0,18.0,1
+Australia,Muscadelle,94.0,160.33333333333334,6
+Australia,Muscat,92.07692307692308,90.07692307692308,13
+Australia,Muscat Hamburg,90.0,22.0,1
+Australia,Petit Verdot,88.0,20.0,1
+Australia,Petite Sirah,87.33333333333333,20.833333333333332,6
+Australia,Pinot Grigio,86.0,13.5,28
+Australia,Pinot Gris,87.42857142857143,18.357142857142858,14
+Australia,Pinot Noir,87.43939393939394,32.28346456692913,132
+Australia,Port,88.0,13.0,1
+Australia,Red Blend,87.83333333333333,29.318181818181817,66
+Australia,Rhône-style Red Blend,88.16666666666667,24.916666666666668,12
+Australia,Rhône-style White Blend,87.8,22.0,5
+Australia,Riesling,88.9205298013245,22.244897959183675,151
+Australia,Rosé,87.3,19.0,30
+Australia,Roussanne,88.5,45.333333333333336,6
+Australia,Sangiovese,87.83333333333333,15.8,6
+Australia,Sauvignon,88.0,30.0,1
+Australia,Sauvignon Blanc,86.98076923076923,17.291666666666668,52
+Australia,Sauvignon Blanc-Semillon,87.68181818181819,21.727272727272727,22
+Australia,Savagnin,87.5,15.0,2
+Australia,Semillon-Chardonnay,85.0,8.0,1
+Australia,Semillon-Sauvignon Blanc,85.63636363636364,20.363636363636363,11
+Australia,Shiraz,89.64193548387097,47.29011345218801,620
+Australia,Shiraz-Cabernet,86.66666666666667,56.333333333333336,3
+Australia,Shiraz-Cabernet Sauvignon,87.51612903225806,20.620689655172413,31
+Australia,Shiraz-Grenache,89.66666666666667,28.266666666666666,15
+Australia,Shiraz-Malbec,90.0,20.0,2
+Australia,Shiraz-Mourvèdre,89.0,18.5,2
+Australia,Shiraz-Roussanne,90.0,29.0,1
+Australia,Shiraz-Viognier,89.57894736842105,53.18421052631579,38
+Australia,Sparkling Blend,87.06060606060606,20.87878787878788,33
+Australia,Syrah,91.625,105.5,16
+Australia,Sémillon,89.05,29.6,20
+Australia,Tempranillo,89.66666666666667,22.0,3
+Australia,Tokay,90.71428571428571,47.0,7
+Australia,Verdelho,87.0,15.4,5
+Australia,Vermentino,86.33333333333333,15.666666666666666,3
+Australia,Viognier,88.3030303030303,23.125,33
+Australia,Viognier-Marsanne,89.0,17.0,1
+Australia,White Blend,86.83333333333333,18.5625,18
+Australia,Zinfandel,88.33333333333333,29.333333333333332,3
+Austria,Austrian Red Blend,89.51612903225806,35.166666666666664,62
+Austria,Austrian white blend,90.32911392405063,32.721311475409834,79
+Austria,Blauburgunder,93.0,19.0,1
+Austria,Blaufränkisch,90.20093457943925,32.5,214
+Austria,Bordeaux-style Red Blend,90.5,36.5,2
+Austria,Cabernet Franc,92.0,47.0,1
+Austria,Cabernet Franc-Merlot,92.0,60.0,1
+Austria,Cabernet Merlot,87.0,,1
+Austria,Cabernet Sauvignon,87.4,31.2,5
+Austria,Champagne Blend,88.0,23.0,1
+Austria,Chardonnay,90.3015873015873,35.27777777777778,63
+Austria,Chardonnay Weissburgunder,94.0,58.0,1
+Austria,Chardonnay-Pinot Blanc,90.5,47.5,2
+Austria,Furmint,91.5,14.5,2
+Austria,Gelber Muskateller,88.57142857142857,26.047619047619047,35
+Austria,Gelber Traminer,95.0,35.0,1
+Austria,Gewürztraminer,89.33333333333333,21.0,3
+Austria,Grauburgunder,89.28571428571429,29.8,7
+Austria,Gros Manseng,89.0,25.0,1
+Austria,Grüner Veltliner,90.11831442463533,28.41329479768786,1234
+Austria,Merlot,91.0,35.0,3
+Austria,Morillon,89.5,31.0,6
+Austria,Moscato,87.0,18.5,2
+Austria,Muskat,88.66666666666667,13.0,3
+Austria,Muskat Ottonel,87.81818181818181,12.444444444444445,11
+Austria,Muskateller,86.0,23.0,1
+Austria,Neuburger,90.72727272727273,24.714285714285715,11
+Austria,Nielluciu,89.0,24.0,1
+Austria,Orangetraube,90.0,22.0,1
+Austria,Pinot Blanc,89.375,26.458333333333332,32
+Austria,Pinot Blanc-Chardonnay,90.0,23.0,1
+Austria,Pinot Gris,90.06666666666666,24.7,15
+Austria,Pinot Noir,90.15151515151516,37.036144578313255,99
+Austria,Red Blend,89.91304347826087,34.78048780487805,92
+Austria,Riesling,91.42857142857143,37.90447154471545,581
+Austria,Rosenmuskateller,92.5,150.0,2
+Austria,Rosé,88.0,15.39655172413793,62
+Austria,Roter Traminer,89.8,30.333333333333332,5
+Austria,Roter Veltliner,90.07692307692308,37.125,13
+Austria,Rotgipfler,89.5,27.2,26
+Austria,Sauvignon,89.0,26.0,2
+Austria,Sauvignon Blanc,89.5,29.387096774193548,128
+Austria,Sauvignon Blanc-Chardonnay,91.0,34.5,3
+Austria,Scheurebe,91.8,58.69230769230769,15
+Austria,Shiraz,91.0,45.0,1
+Austria,Sparkling Blend,89.13207547169812,29.846153846153847,53
+Austria,St. Laurent,89.82954545454545,30.676056338028168,88
+Austria,Syrah,89.0,13.0,1
+Austria,Sämling,91.2,35.5,5
+Austria,Traminer,89.47368421052632,32.75,19
+Austria,Weissburgunder,89.57575757575758,25.68,33
+Austria,Welschriesling,89.63636363636364,30.19047619047619,22
+Austria,White Blend,89.94285714285714,31.392857142857142,70
+Austria,Zierfandler,90.1875,32.583333333333336,16
+Austria,Zierfandler-Rotgipfler,90.4,23.75,5
+Austria,Zweigelt,88.29353233830845,21.24137931034483,201
+Bosnia and Herzegovina,Blatina,88.0,12.0,1
+Bosnia and Herzegovina,Vranec,85.0,13.0,1
+Brazil,Bordeaux-style Red Blend,84.0,22.5,2
+Brazil,Cabernet Franc,84.0,,1
+Brazil,Cabernet Sauvignon,83.0,26.5,4
+Brazil,Cabernet Sauvignon-Merlot,83.0,20.0,1
+Brazil,Champagne Blend,86.2,25.8,5
+Brazil,Chardonnay,83.8,25.0,5
+Brazil,Merlot,84.42857142857143,19.142857142857142,7
+Brazil,Merlot-Cabernet Sauvignon,85.5,39.0,2
+Brazil,Moscatel,87.0,22.5,2
+Brazil,Moscato,84.0,15.0,4
+Brazil,Pinot Noir,86.0,25.0,2
+Brazil,Red Blend,85.33333333333333,35.666666666666664,3
+Brazil,Sparkling Blend,85.5,29.0,8
+Brazil,Tannat,83.66666666666667,13.8,6
+Bulgaria,Bordeaux-style Red Blend,91.0,27.5,2
+Bulgaria,Cabernet Franc,88.0,19.0,2
+Bulgaria,Cabernet Sauvignon,87.85,11.15,20
+Bulgaria,Cabernet Sauvignon-Syrah,90.0,14.0,1
+Bulgaria,Chardonnay,88.5,13.8125,16
+Bulgaria,Gamza,89.0,11.0,1
+Bulgaria,Malbec,89.0,40.0,1
+Bulgaria,Mavrud,87.85714285714286,14.142857142857142,7
+Bulgaria,Merlot,87.6923076923077,11.461538461538462,13
+Bulgaria,Merlot-Syrah,89.0,18.0,1
+Bulgaria,Muscat,87.0,10.0,1
+Bulgaria,Muskat Ottonel,84.0,11.0,4
+Bulgaria,Pinot Grigio,88.0,9.0,1
+Bulgaria,Pinot Noir,88.53333333333333,13.666666666666666,15
+Bulgaria,Red Blend,89.18181818181819,22.0,22
+Bulgaria,Riesling,85.33333333333333,13.333333333333334,3
+Bulgaria,Rosé,86.0,10.75,4
+Bulgaria,Sauvignon Blanc,86.25,10.166666666666666,12
+Bulgaria,Syrah,89.0,23.666666666666668,3
+Bulgaria,Tamianka,89.0,20.0,1
+Bulgaria,Traminer,86.0,10.5,4
+Bulgaria,Viognier,89.0,14.666666666666666,3
+Bulgaria,White Blend,88.25,15.75,4
+Canada,Apple,89.0,33.0,1
+Canada,Bordeaux-style Red Blend,90.46666666666667,48.4,15
+Canada,Cabernet,88.0,40.0,1
+Canada,Cabernet Franc,89.08333333333333,42.333333333333336,24
+Canada,Cabernet Merlot,89.0,50.0,1
+Canada,Cabernet Sauvignon,90.0,47.42857142857143,7
+Canada,Cabernet Sauvignon-Syrah,88.0,40.0,1
+Canada,Carmenère,90.0,50.0,1
+Canada,Chardonnay,88.88461538461539,25.615384615384617,26
+Canada,Chasselas,90.0,20.0,1
+Canada,Chenin Blanc,90.0,19.0,1
+Canada,Gamay Noir,88.0,24.0,1
+Canada,Gewürztraminer,88.8,20.0,10
+Canada,Gewürztraminer-Riesling,83.0,12.0,1
+Canada,Malbec,92.0,32.0,1
+Canada,Meritage,90.5,42.0,6
+Canada,Merlot,89.0,30.0,11
+Canada,Moscato,92.0,20.0,1
+Canada,Muscat,91.0,18.0,1
+Canada,Pinot Gris,90.25,19.0,4
+Canada,Pinot Noir,88.52173913043478,33.08695652173913,23
+Canada,Red Blend,90.6,29.2,5
+Canada,Rhône-style White Blend,91.0,25.0,3
+Canada,Riesling,89.42592592592592,34.76470588235294,54
+Canada,Rosé,87.0,20.0,3
+Canada,Sauvignon Blanc,88.4,21.7,10
+Canada,Syrah,91.14285714285714,47.357142857142854,14
+Canada,Vidal,90.75,45.125,8
+Canada,Vidal Blanc,89.26666666666667,60.6,15
+Canada,Viognier,87.5,24.0,2
+Canada,White Blend,87.8,20.4,5
+Chile,Bordeaux-style Red Blend,90.13513513513513,51.513513513513516,37
+Chile,Cabernet Blend,88.96428571428571,50.32142857142857,28
+Chile,Cabernet Franc,87.23684210526316,23.91891891891892,38
+Chile,Cabernet Franc-Carmenère,86.0,12.0,2
+Chile,Cabernet Sauvignon,86.6887159533074,20.023560209424083,771
+Chile,Cabernet Sauvignon-Cabernet Franc,89.6,28.0,5
+Chile,Cabernet Sauvignon-Carmenère,87.30952380952381,23.487179487179485,42
+Chile,Cabernet Sauvignon-Malbec,85.66666666666667,16.333333333333332,3
+Chile,Cabernet Sauvignon-Merlot,85.9,18.4,20
+Chile,Cabernet Sauvignon-Syrah,86.58333333333333,18.208333333333332,24
+Chile,Carignan,87.93617021276596,24.340425531914892,47
+Chile,Carmenère,86.45714285714286,20.30888030888031,525
+Chile,Carmenère-Cabernet Sauvignon,88.125,27.142857142857142,8
+Chile,Carmenère-Syrah,87.14285714285714,23.0,7
+Chile,Champagne Blend,83.0,15.0,3
+Chile,Chardonnay,85.13372093023256,15.24705882352941,516
+Chile,Chardonnay-Viognier,83.5,12.0,6
+Chile,Cinsault,88.5,26.75,4
+Chile,Gewürztraminer,84.85,14.5,20
+Chile,Gewürztraminer-Riesling,88.0,11.0,1
+Chile,Malbec,86.59154929577464,19.02112676056338,142
+Chile,Malbec-Cabernet Sauvignon,86.0,15.0,1
+Chile,Malbec-Carménère,91.0,43.0,1
+Chile,Malbec-Syrah,84.0,13.0,2
+Chile,Merlot,85.24418604651163,12.92578125,258
+Chile,Merlot-Cabernet,86.0,15.0,1
+Chile,Moscatel,88.0,13.0,1
+Chile,Moscato,80.75,7.0,4
+Chile,Mourvèdre,92.0,30.0,1
+Chile,Muscat,85.25,21.666666666666668,4
+Chile,Muscat d'Alexandrie,84.0,15.0,1
+Chile,Muscatel,88.0,15.0,1
+Chile,País,83.0,18.0,1
+Chile,Pedro Ximénez,84.14285714285714,10.714285714285714,7
+Chile,Petit Verdot,88.83333333333333,52.166666666666664,6
+Chile,Petite Sirah,87.75,31.25,4
+Chile,Pinot Grigio,83.0,11.8,5
+Chile,Pinot Noir,85.91735537190083,19.10335195530726,363
+Chile,Pinot Noir-Syrah,83.0,12.0,1
+Chile,Red Blend,88.9437652811736,39.772277227722775,409
+Chile,Rhône-style Red Blend,90.0,23.0,1
+Chile,Rhône-style White Blend,87.0,15.0,1
+Chile,Riesling,86.16666666666667,16.454545454545453,24
+Chile,Rosé,84.25,12.930232558139535,44
+Chile,Sauvignon Blanc,85.97950219619327,14.020740740740742,683
+Chile,Sauvignon Blanc-Semillon,88.0,12.0,2
+Chile,Sauvignon Gris,84.6,18.77777777777778,10
+Chile,Shiraz,86.3913043478261,18.136363636363637,23
+Chile,Shiraz-Cabernet Sauvignon,83.0,9.0,1
+Chile,Sparkling Blend,84.64285714285714,22.0,14
+Chile,Syrah,88.00732600732601,28.462962962962962,273
+Chile,Syrah-Cabernet,87.33333333333333,17.333333333333332,6
+Chile,Syrah-Cabernet Franc,91.0,60.0,1
+Chile,Syrah-Cabernet Sauvignon,87.0,24.166666666666668,6
+Chile,Syrah-Carignan,92.0,35.0,1
+Chile,Syrah-Merlot,89.0,20.0,1
+Chile,Sémillon,87.0,16.0,2
+Chile,Tempranillo,85.5,18.0,2
+Chile,Torontel,92.0,40.0,1
+Chile,Viognier,84.73913043478261,13.130434782608695,23
+Chile,Viognier-Chardonnay,84.0,14.6,5
+Chile,White Blend,84.37037037037037,15.814814814814815,27
+China,Cabernet Blend,89.0,18.0,1
+Croatia,Babić,88.5,35.0,4
+Croatia,Blaufränkisch,84.0,13.0,1
+Croatia,Bordeaux-style Red Blend,88.0,13.0,1
+Croatia,Debit,89.0,35.0,1
+Croatia,Graševina,89.0,20.0,1
+Croatia,Grenache,88.0,19.0,1
+Croatia,Malvasia,87.5,18.5,8
+Croatia,Malvasia Istriana,87.75,17.25,4
+Croatia,Muscat,88.0,15.0,1
+Croatia,Pinot Gris,83.0,,1
+Croatia,Pinot Noir,84.0,13.0,1
+Croatia,Plavac Mali,87.58823529411765,34.0,17
+Croatia,Posip,87.875,25.125,8
+Croatia,Red Blend,87.66666666666667,23.833333333333332,6
+Croatia,Rosé,85.0,21.0,2
+Croatia,Sauvignon Blanc,82.0,,1
+Croatia,Teran,87.6,27.8,5
+Croatia,Traminer,87.0,13.0,1
+Croatia,Welschriesling,84.5,14.0,2
+Croatia,White Blend,85.75,31.0,4
+Croatia,Zlahtina,86.0,14.5,2
+Croatia,Zweigelt,90.0,25.0,1
+Cyprus,Red Blend,87.0,17.0,3
+Cyprus,White Blend,87.0,14.2,5
+Cyprus,Xinisteri,89.0,20.0,1
+Cyprus,Xynisteri,87.0,18.5,2
+Czech Republic,Cabernet Moravia,86.5,18.0,2
+Czech Republic,Frankovka,88.0,24.0,1
+Czech Republic,Red Blend,89.0,45.0,2
+Czech Republic,Riesling,88.0,15.0,1
+Czech Republic,Rivaner,87.0,15.0,1
+Czech Republic,Ryzlink Rýnský,89.0,40.0,1
+Czech Republic,Sauvignon Blanc,85.5,15.5,2
+Czech Republic,St. Laurent,88.0,15.0,1
+Czech Republic,Welschriesling,85.0,25.0,1
+Egypt,Grenache,84.0,,1
+England,Chardonnay,92.38888888888889,54.0625,18
+England,Pinot Noir,91.85714285714286,50.142857142857146,7
+England,Sparkling Blend,91.34042553191489,51.36363636363637,47
+England,White Blend,89.0,45.0,2
+France,Abouriou,89.0,15.0,2
+France,Aligoté,86.15,18.894736842105264,20
+France,Alsace white blend,90.23529411764706,29.571428571428573,51
+France,Altesse,88.75,17.875,8
+France,Auxerrois,88.46153846153847,23.0,13
+France,Biancu Gentile,89.0,,1
+France,Bordeaux-style Red Blend,88.82137566137565,40.89631263788213,4725
+France,Bordeaux-style White Blend,88.70421155729677,34.99076923076923,1021
+France,Braucol,90.6,27.0,5
+France,Cabernet,85.0,13.0,1
+France,Cabernet Blend,84.0,13.0,1
+France,Cabernet Franc,88.47976878612717,24.868613138686133,173
+France,Cabernet Franc-Cabernet Sauvignon,89.72727272727273,24.9,11
+France,Cabernet Merlot,85.0,12.0,1
+France,Cabernet Sauvignon,85.43859649122807,18.037735849056602,57
+France,Cabernet Sauvignon-Merlot,85.0,9.666666666666666,3
+France,Cabernet Sauvignon-Syrah,88.0,13.5,2
+France,Cabernet-Syrah,89.33333333333333,29.8,6
+France,Carcajolu,88.0,21.0,1
+France,Carignan,87.6,20.4,5
+France,Carignan-Grenache,90.0,17.0,1
+France,Carignan-Syrah,91.0,59.0,3
+France,Champagne Blend,89.9597747385358,76.69622641509434,1243
+France,Chardonnay,89.25899536872106,57.22925078510543,2807
+France,Chardonnay-Pinot Gris,85.0,17.0,1
+France,Chardonnay-Sauvignon,86.66666666666667,15.333333333333334,3
+France,Chardonnay-Sauvignon Blanc,88.0,16.0,2
+France,Chardonnay-Viognier,86.46153846153847,15.181818181818182,13
+France,Chasselas,88.66666666666667,20.8,6
+France,Chenin Blanc,89.22592592592592,27.804444444444446,270
+France,Chenin Blanc-Chardonnay,88.46428571428571,16.818181818181817,28
+France,Cinsault,86.0,14.333333333333334,3
+France,Clairette,88.0,12.0,1
+France,Colombard,85.66666666666667,9.636363636363637,12
+France,Colombard-Sauvignon Blanc,85.38888888888889,11.0,18
+France,Colombard-Ugni Blanc,85.125,10.25,8
+France,Duras,88.42857142857143,21.333333333333332,7
+France,Edelzwicker,90.0,19.0,1
+France,Ekigaïna,85.0,,1
+France,Fer Servadou,87.0,16.5,4
+France,Folle Blanche,85.0,16.0,1
+France,G-S-M,89.0,22.833333333333332,6
+France,Gamay,88.03725490196078,20.643028846153847,1020
+France,Gamay Noir,87.0,18.5,2
+France,Gewürztraminer,89.49369747899159,34.33018867924528,476
+France,Grenache,87.55555555555556,28.53846153846154,27
+France,Grenache Blanc,90.66666666666667,35.5,3
+France,Grenache Gris,87.0,22.0,1
+France,Grenache Noir,86.0,9.0,1
+France,Grenache-Carignan,89.5,20.0,2
+France,Grenache-Mourvèdre,92.0,60.0,1
+France,Grenache-Syrah,87.7,18.45,20
+France,Grolleau,87.33333333333333,39.333333333333336,3
+France,Gros Manseng,88.04166666666667,17.714285714285715,24
+France,Gros Plant,86.0,16.0,1
+France,Gros and Petit Manseng,89.70588235294117,20.928571428571427,51
+France,Jacquère,87.5,16.869565217391305,24
+France,Loin de l'Oeil,91.33333333333333,27.333333333333332,9
+France,Malbec,89.55902004454343,33.54814814814815,449
+France,Malbec Blend,88.0,,1
+France,Malbec-Cabernet Franc,85.0,30.0,1
+France,Malbec-Merlot,88.5,18.90277777777778,82
+France,Malbec-Tannat,92.27272727272727,30.272727272727273,11
+France,Mansois,87.25,17.0,4
+France,Marsanne,88.85714285714286,44.476190476190474,21
+France,Marsanne-Roussanne,88.66666666666667,41.666666666666664,3
+France,Marselan,87.0,12.0,1
+France,Mauzac,87.71428571428571,18.0,7
+France,Melon,88.46594982078852,17.179166666666667,279
+France,Merlot,86.68695652173913,24.5,115
+France,Merlot-Cabernet,88.0,12.0,1
+France,Merlot-Cabernet Franc,88.0,23.0,1
+France,Merlot-Cabernet Sauvignon,86.71428571428571,12.714285714285714,7
+France,Merlot-Grenache,89.0,10.0,1
+France,Merlot-Malbec,86.5,13.5,2
+France,Merlot-Tannat,89.33333333333333,18.333333333333332,3
+France,Mondeuse,86.91666666666667,21.0,12
+France,Moscato,85.5,7.5,2
+France,Mourvèdre,91.33333333333333,41.0,6
+France,Muscadel,88.0,30.0,1
+France,Muscadelle,90.25,37.5,4
+France,Muscat,89.28571428571429,30.636363636363637,49
+France,Muscat Blanc à Petits Grains,85.5,12.0,2
+France,Muscat d'Alexandrie,88.0,16.0,1
+France,Negrette,88.0,18.857142857142858,15
+France,Nielluciu,89.0,23.0,2
+France,Ondenc,90.0,15.0,1
+France,Petit Courbu,88.0,19.0,1
+France,Petit Manseng,91.94444444444444,32.96551724137931,36
+France,Petit Meslier,89.0,,1
+France,Petit Verdot,92.0,40.0,1
+France,Petite Verdot,84.0,25.0,1
+France,Picpoul,86.2,13.555555555555555,10
+France,Pinot Auxerrois,87.0,26.181818181818183,12
+France,Pinot Blanc,87.0625,20.054794520547944,192
+France,Pinot Blanc-Chardonnay,87.5,25.0,2
+France,Pinot Gris,89.63318777292577,33.443627450980394,458
+France,Pinot Meunier,90.33333333333333,70.70588235294117,18
+France,Pinot Noir,89.7342549923195,81.84035759897829,1953
+France,Pinot Noir-Gamay,85.47058823529412,18.4375,17
+France,Poulsard,87.33333333333333,26.0,3
+France,Provence red blend,89.953125,29.93220338983051,64
+France,Provence white blend,88.0,23.647058823529413,36
+France,Prunelard,91.0,23.0,1
+France,Red Blend,88.20723684210526,22.288888888888888,304
+France,Rhône-style Red Blend,88.91093117408907,32.94126284875183,741
+France,Rhône-style White Blend,88.30964467005076,38.068062827225134,197
+France,Riesling,90.42618384401115,32.391975308641975,718
+France,Rolle,88.25,22.25,4
+France,Romorantin,90.66666666666667,23.333333333333332,3
+France,Rosé,87.22412896515861,19.478981645944344,1923
+France,Roussanne,89.0909090909091,31.09090909090909,11
+France,Roussanne-Marsanne,91.0,40.0,1
+France,Sacy,86.5,19.0,2
+France,Sauvignon,89.0,21.666666666666668,3
+France,Sauvignon Blanc,88.35798499464094,26.631067961165048,933
+France,Sauvignon Blanc-Chardonnay,88.0,18.0,3
+France,Sauvignon Blanc-Sauvignon Gris,86.0,,1
+France,Sauvignon Blanc-Semillon,86.0,12.0,1
+France,Sauvignon Gris,87.0,14.0,2
+France,Sauvignon-Sémillon,86.0,12.0,1
+France,Savagnin,89.7,48.15384615384615,20
+France,Sciaccerellu,88.8,37.333333333333336,5
+France,Semillon-Sauvignon Blanc,86.0,15.0,1
+France,Shiraz,87.5,21.0,2
+France,Sparkling Blend,87.78851174934726,22.498533724340177,383
+France,Sylvaner,88.125,21.545454545454547,40
+France,Syrah,89.8719512195122,56.4,164
+France,Syrah-Cabernet,86.0,24.0,1
+France,Syrah-Carignan,89.0,18.666666666666668,3
+France,Syrah-Grenache,88.8,17.214285714285715,15
+France,Syrah-Merlot,86.0,11.0,2
+France,Syrah-Mourvèdre,90.5,20.5,4
+France,Syrah-Viognier,89.5,66.0,4
+France,Sémillon,86.83333333333333,15.166666666666666,6
+France,Tannat,91.50847457627118,36.35294117647059,59
+France,Tannat-Cabernet,90.45161290322581,20.5,31
+France,Tannat-Cabernet Franc,91.07142857142857,21.714285714285715,14
+France,Tannat-Merlot,89.0,19.333333333333332,5
+France,Tannat-Syrah,87.0,10.0,4
+France,Tokay Pinot Gris,89.0,30.0,1
+France,Trousseau,87.0,33.2,5
+France,Ugni Blanc-Colombard,85.77777777777777,10.88888888888889,9
+France,Verdelho,91.5,,2
+France,Vermentino,87.64,24.235294117647058,25
+France,Viognier,89.22727272727273,55.625,66
+France,Viognier-Chardonnay,88.0,17.0,4
+France,White Blend,87.25882352941177,18.835616438356166,255
+Georgia,Chinuri,85.5,23.0,2
+Georgia,Kisi,87.33333333333333,20.166666666666668,6
+Georgia,Mtsvane,87.75,17.666666666666668,4
+Georgia,Other,89.0,27.0,2
+Georgia,Red Blend,88.75,18.0,4
+Georgia,Rkatsiteli,87.04761904761905,20.85,21
+Georgia,Rosé,86.0,12.0,1
+Georgia,Saperavi,88.59375,20.75,32
+Georgia,Saperavi-Merlot,87.0,17.5,2
+Georgia,Sparkling Blend,84.66666666666667,13.333333333333334,3
+Georgia,White Blend,87.22222222222223,12.11111111111111,9
+Germany,Auxerrois,89.0,19.5,2
+Germany,Bacchus,91.0,,2
+Germany,Chardonnay,89.4,27.6,5
+Germany,Chardonnay Weissburgunder,90.0,25.0,1
+Germany,Chardonnay-Pinot Blanc,87.0,25.0,2
+Germany,Dornfelder,85.9090909090909,12.863636363636363,22
+Germany,Elbling,87.75,16.0,4
+Germany,Früburgunder,90.0,40.0,1
+Germany,Gewürztraminer,87.94594594594595,16.43243243243243,37
+Germany,Gewürztraminer-Riesling,86.0,25.0,1
+Germany,Grauburgunder,88.16666666666667,20.166666666666668,6
+Germany,Lemberger,87.8,35.0,5
+Germany,Muskateller,87.0,26.75,4
+Germany,Müller-Thurgau,90.0,19.0,2
+Germany,Pinot Blanc,88.86363636363636,20.238095238095237,22
+Germany,Pinot Grigio,88.0,13.0,3
+Germany,Pinot Gris,87.63636363636364,20.0,11
+Germany,Pinot Noir,89.43636363636364,31.381818181818183,55
+Germany,Red Blend,86.75,20.125,8
+Germany,Rieslaner,89.66666666666667,39.0,6
+Germany,Riesling,90.09497206703911,44.26282782212087,1790
+Germany,Rivaner,86.5,17.0,2
+Germany,Rosé,88.66666666666667,20.90909090909091,12
+Germany,Scheurebe,88.25,20.125,8
+Germany,Schwartzriesling,90.0,25.0,1
+Germany,Silvaner,88.5945945945946,46.888888888888886,37
+Germany,Silvaner-Traminer,86.0,25.0,1
+Germany,Sparkling Blend,88.35714285714286,25.0,14
+Germany,Spätburgunder,90.02777777777777,60.97142857142857,72
+Germany,St. Laurent,87.33333333333333,37.666666666666664,3
+Germany,Traminer,88.0,48.0,1
+Germany,Trollinger,90.5,21.5,2
+Germany,Weissburgunder,89.35714285714286,27.071428571428573,14
+Germany,White Blend,87.66666666666667,16.11111111111111,9
+Greece,Agiorgitiko,87.03174603174604,23.571428571428573,63
+Greece,Aidani,82.0,27.0,1
+Greece,Assyrtico,88.04651162790698,23.53488372093023,43
+Greece,Assyrtiko,89.17647058823529,23.235294117647058,17
+Greece,Athiri,83.0,18.0,1
+Greece,Cabernet Blend,85.0,30.0,2
+Greece,Cabernet Sauvignon,86.0,20.833333333333332,6
+Greece,Cabernet Sauvignon Grenache,87.0,23.0,1
+Greece,Cabernet Sauvignon-Merlot,88.33333333333333,21.333333333333332,3
+Greece,Cabernet Sauvignon-Syrah,88.0,19.0,1
+Greece,Chardonnay,87.53333333333333,25.6,15
+Greece,Dafni,85.0,20.0,1
+Greece,Kotsifali,92.0,13.0,1
+Greece,Malagousia,88.5,20.583333333333332,12
+Greece,Malagouzia,88.5,20.0,4
+Greece,Malagouzia-Chardonnay,86.0,8.0,1
+Greece,Malvasia,85.0,45.0,1
+Greece,Mandilaria,88.5,25.0,2
+Greece,Mavrodaphne,86.4,16.0,5
+Greece,Mavrokalavryta,86.0,15.0,1
+Greece,Mavrotragano,90.0,50.0,1
+Greece,Mavroudi,87.0,12.0,1
+Greece,Merlot,88.16666666666667,39.166666666666664,6
+Greece,Moschofilero,88.11111111111111,15.13888888888889,36
+Greece,Moschofilero-Chardonnay,85.0,13.0,1
+Greece,Muscat,87.11111111111111,17.22222222222222,9
+Greece,Muscat of Alexandria,85.0,16.5,2
+Greece,Plyto,87.0,19.5,2
+Greece,Red Blend,87.05882352941177,28.424242424242426,68
+Greece,Robola,87.75,23.0,4
+Greece,Roditis,86.5,16.75,4
+Greece,Roditis-Moschofilero,88.0,11.0,1
+Greece,Rosé,86.92307692307692,16.846153846153847,13
+Greece,Sauvignon Blanc,86.33333333333333,25.0,6
+Greece,Sauvignon Blanc-Assyrtiko,92.0,20.0,1
+Greece,Savatiano,87.2,13.8,5
+Greece,Sideritis,85.0,23.0,1
+Greece,Syrah,86.83333333333333,21.6,6
+Greece,Tannat,88.0,21.0,1
+Greece,Thrapsathiri,88.0,25.0,1
+Greece,Traminer,84.5,17.5,2
+Greece,Vilana,86.5,14.5,4
+Greece,Viognier,86.8,33.0,5
+Greece,White Blend,86.95833333333333,19.676056338028168,72
+Greece,Xinomavro,86.72727272727273,22.5625,33
+Hungary,Blauburger,87.0,17.0,1
+Hungary,Blauer Portugieser,86.0,15.0,1
+Hungary,Blaufränkisch,85.0,12.0,1
+Hungary,Bordeaux-style Red Blend,88.0,45.833333333333336,6
+Hungary,Cabernet Blend,89.0,78.0,1
+Hungary,Cabernet Franc,86.5,52.5,4
+Hungary,Chardonnay,89.0,25.0,1
+Hungary,Furmint,89.91836734693878,48.244897959183675,49
+Hungary,Grüner Veltliner,87.0,11.0,1
+Hungary,Hárslevelü,89.5,28.0,2
+Hungary,Irsai Oliver,87.0,13.0,1
+Hungary,Kadarka,88.0,24.0,2
+Hungary,Kekfrankos,87.2,29.5,10
+Hungary,Merlot,89.0,76.0,1
+Hungary,Muscat,88.33333333333333,15.333333333333334,3
+Hungary,Muscat Blanc,90.0,18.0,1
+Hungary,Pinot Gris,87.0,13.0,1
+Hungary,Pinot Noir,90.0,25.0,1
+Hungary,Red Blend,87.25,34.875,8
+Hungary,Rosé,87.0,18.0,4
+Hungary,Sparkling Blend,84.33333333333333,12.0,3
+Hungary,Syrah,88.5,25.0,2
+Hungary,Tokaji,90.75,59.08695652173913,24
+Hungary,White Blend,90.55555555555556,27.833333333333332,18
+India,Chenin Blanc,89.0,10.666666666666666,3
+India,Sauvignon Blanc,89.5,12.0,2
+India,Shiraz,91.5,16.0,4
+Israel,Argaman,88.33333333333333,40.666666666666664,3
+Israel,Barbera,85.33333333333333,22.0,3
+Israel,Bordeaux-style Red Blend,89.36585365853658,49.6,41
+Israel,Cabernet Blend,87.0,65.0,2
+Israel,Cabernet Franc,87.66666666666667,33.2,6
+Israel,Cabernet Franc-Cabernet Sauvignon,90.0,38.0,1
+Israel,Cabernet Merlot,89.66666666666667,39.666666666666664,3
+Israel,Cabernet Sauvignon,88.82857142857142,33.98989898989899,105
+Israel,Cabernet Sauvignon-Cabernet Franc,92.0,45.0,1
+Israel,Cabernet Sauvignon-Merlot,88.44444444444444,22.555555555555557,9
+Israel,Cabernet Sauvignon-Shiraz,88.0,21.666666666666668,6
+Israel,Carignan,90.33333333333333,44.166666666666664,6
+Israel,Chardonnay,87.46341463414635,23.82051282051282,41
+Israel,Chardonnay-Sauvignon,89.0,11.0,1
+Israel,Chardonnay-Sauvignon Blanc,88.0,12.0,3
+Israel,Chenin Blanc,88.0,30.0,2
+Israel,Fumé Blanc,86.0,15.0,1
+Israel,Gewürztraminer,89.2,24.6,5
+Israel,Marawi,87.66666666666667,35.0,3
+Israel,Marselan,89.33333333333333,41.333333333333336,3
+Israel,Merlot,87.38461538461539,25.026315789473685,39
+Israel,Merlot-Argaman,85.0,12.0,1
+Israel,Merlot-Cabernet Sauvignon,85.0,,1
+Israel,Moscato,88.66666666666667,13.0,3
+Israel,Petit Verdot,90.5,52.5,2
+Israel,Petite Sirah,89.3,33.2,10
+Israel,Pinot Gris,90.0,15.0,1
+Israel,Pinot Noir,86.42857142857143,18.428571428571427,7
+Israel,Pinotage,88.0,25.0,1
+Israel,Red Blend,89.38157894736842,39.736111111111114,76
+Israel,Rhône-style Red Blend,92.0,23.0,3
+Israel,Rhône-style White Blend,85.0,20.0,2
+Israel,Riesling,90.0,15.0,1
+Israel,Rosé,86.9090909090909,19.636363636363637,11
+Israel,Roussanne-Marsanne,88.0,50.0,1
+Israel,Sangiovese,90.0,15.0,1
+Israel,Sauvignon Blanc,85.88888888888889,16.77777777777778,18
+Israel,Sauvignon Blanc-Semillon,86.0,30.0,1
+Israel,Shiraz,89.15384615384616,22.692307692307693,26
+Israel,Sparkling Blend,87.0,28.5,2
+Israel,Syrah,89.4090909090909,40.0,22
+Israel,Syrah-Merlot,88.0,38.0,1
+Israel,Syrah-Mourvèdre,90.25,32.75,4
+Israel,Syrah-Viognier,90.0,50.0,1
+Israel,Tempranillo,83.0,21.0,2
+Israel,Viognier,87.8,18.0,5
+Israel,White Blend,87.23529411764706,22.88235294117647,17
+Israel,White Riesling,89.0,26.0,1
+Italy,Aglianico,89.31686046511628,39.28673835125448,344
+Italy,Albana,89.6086956521739,23.473684210526315,23
+Italy,Albanello,86.0,20.0,1
+Italy,Albarossa,88.0,40.0,2
+Italy,Aleatico,86.6,39.75,5
+Italy,Alicante,87.4,23.0,5
+Italy,Ansonica,86.5,26.0,2
+Italy,Arneis,87.12676056338029,20.584615384615386,71
+Italy,Asprinio,84.0,15.0,3
+Italy,Barbera,87.8643006263048,25.189333333333334,479
+Italy,Biancale,85.0,18.0,1
+Italy,Biancolella,85.0,26.0,1
+Italy,Bombino Bianco,87.0,30.0,2
+Italy,Bombino Nero,87.0,11.0,1
+Italy,Bordeaux-style Red Blend,89.5,56.5,2
+Italy,Bovale,89.75,30.0,4
+Italy,Brachetto,83.8,17.8,15
+Italy,Cabernet,87.14285714285714,13.4,7
+Italy,Cabernet Blend,88.33333333333333,46.666666666666664,3
+Italy,Cabernet Franc,91.0,86.25,28
+Italy,Cabernet Sauvignon,89.13740458015268,44.04237288135593,131
+Italy,Cabernet Sauvignon-Merlot,92.0,61.5,2
+Italy,Cabernet Sauvignon-Shiraz,86.0,10.0,1
+Italy,Canaiolo,88.33333333333333,40.666666666666664,3
+Italy,Cannonau,87.96774193548387,25.25,31
+Italy,Caprettone,92.0,19.0,1
+Italy,Carignano,90.06666666666666,36.785714285714285,15
+Italy,Carmenère,90.0,40.0,1
+Italy,Carricante,89.83783783783784,40.4054054054054,37
+Italy,Casavecchia,87.0,46.4,5
+Italy,Catalanesca,89.0,19.0,1
+Italy,Catarratto,86.79310344827586,20.16,29
+Italy,Centesimino,92.0,36.0,1
+Italy,Cesanese,90.0,20.0,2
+Italy,Cesanese d'Affile,88.125,22.125,8
+Italy,Champagne Blend,87.8,24.9,10
+Italy,Chardonnay,88.17964071856288,31.794871794871796,334
+Italy,Ciliegiolo,87.66666666666667,30.666666666666668,3
+Italy,Cococciola,86.0,20.0,1
+Italy,Coda di Volpe,85.22222222222223,19.666666666666668,18
+Italy,Colorino,86.0,40.0,1
+Italy,Cortese,86.49295774647888,21.796875,71
+Italy,Corvina,88.5909090909091,43.3,22
+Italy,"Corvina, Rondinella, Molinara",88.24394184168013,47.90725806451613,619
+Italy,Dolcetto,87.14615384615385,19.991525423728813,130
+Italy,Durella,89.66666666666667,31.11111111111111,9
+Italy,Erbaluce,88.0,28.666666666666668,3
+Italy,Falanghina,87.22988505747126,20.794520547945204,87
+Italy,Favorita,90.0,40.0,1
+Italy,Fiano,88.21830985915493,28.05785123966942,142
+Italy,Francisa,91.0,160.0,1
+Italy,Franconia,86.0,16.0,1
+Italy,Frappato,87.58974358974359,22.5,39
+Italy,Freisa,86.5,21.0,2
+Italy,Friulano,87.91803278688525,23.714285714285715,122
+Italy,Gaglioppo,86.66666666666667,21.214285714285715,15
+Italy,Garganega,87.63703703703703,20.646788990825687,270
+Italy,Gewürztraminer,88.45652173913044,31.133333333333333,46
+Italy,Glera,87.24400564174894,20.117549668874172,709
+Italy,Gragnano,82.5,16.5,2
+Italy,Grecanico,87.33333333333333,21.142857142857142,9
+Italy,Grechetto,86.6,16.818181818181817,15
+Italy,Greco,88.45833333333333,26.636363636363637,120
+Italy,Greco Bianco,86.33333333333333,16.5,6
+Italy,Grenache,90.0,230.0,1
+Italy,Grignolino,86.0,17.0,2
+Italy,Grillo,87.0,17.798165137614678,137
+Italy,Groppello,87.0,23.0,2
+Italy,Grüner Veltliner,88.4,24.0,5
+Italy,Incrocio Manzoni,88.0,26.333333333333332,3
+Italy,Insolia,86.51515151515152,16.884615384615383,33
+Italy,Inzolia,86.0,14.925925925925926,30
+Italy,Kerner,88.76923076923077,23.28,26
+Italy,Lagrein,88.65753424657534,32.63380281690141,73
+Italy,Lambrusco,84.72,15.666666666666666,50
+Italy,Lambrusco Grasparossa,87.44444444444444,18.25,18
+Italy,Lambrusco Salamino,88.66666666666667,20.0,3
+Italy,Lambrusco di Sorbara,89.63157894736842,20.529411764705884,19
+Italy,Magliocco,89.0,30.0,4
+Italy,Malbec,89.0,30.0,2
+Italy,Malvar,88.0,35.0,1
+Italy,Malvasia,87.29629629629629,27.541666666666668,27
+Italy,Malvasia Bianca,88.0,26.0,3
+Italy,Malvasia Istriana,85.33333333333333,18.5,3
+Italy,Malvasia Nera,87.16666666666667,39.333333333333336,6
+Italy,Malvasia di Candia,87.0,22.5,2
+Italy,Mantonico,87.71428571428571,27.8,7
+Italy,Manzoni,86.875,22.6,8
+Italy,Marzemino,86.33333333333333,52.333333333333336,3
+Italy,Merlot,89.48,92.76086956521739,150
+Italy,Merlot-Cabernet,86.0,19.0,1
+Italy,Molinara,87.0,25.0,1
+Italy,Mondeuse,89.5,48.0,2
+Italy,Monica,86.5,16.0,4
+Italy,Montepulciano,86.765625,24.724719101123597,192
+Italy,Moscadello,90.0,40.0,6
+Italy,Moscato,86.84210526315789,21.08641975308642,190
+Italy,Moscato Giallo,87.0,23.083333333333332,15
+Italy,Moscato Rosa,90.0,33.5,2
+Italy,Moscato di Noto,92.0,40.0,1
+Italy,Muscat,86.0,10.0,1
+Italy,Müller-Thurgau,87.42424242424242,22.393939393939394,33
+Italy,Nascetta,87.71428571428571,27.0,7
+Italy,Nasco,90.5,37.5,2
+Italy,Nebbiolo,90.30555555555556,66.44724061810155,2736
+Italy,Negroamaro,86.73417721518987,18.47945205479452,79
+Italy,Nerello Cappuccio,89.83333333333333,36.833333333333336,6
+Italy,Nerello Mascalese,89.68376068376068,41.14414414414414,117
+Italy,Nero d'Avola,87.4432132963989,23.263975155279503,361
+Italy,Nero di Troia,87.63157894736842,28.444444444444443,19
+Italy,Nosiola,88.125,30.875,8
+Italy,Nuragus,88.33333333333333,16.0,3
+Italy,Pallagrello,87.7,35.77777777777778,10
+Italy,Pallagrello Bianco,87.6,31.6,5
+Italy,Pallagrello Nero,87.8,41.0,5
+Italy,Passerina,85.91666666666667,16.75,24
+Italy,Pecorino,87.20370370370371,19.91304347826087,54
+Italy,Perricone,87.9,27.285714285714285,10
+Italy,Petit Manseng,88.0,38.666666666666664,3
+Italy,Petit Verdot,89.75,38.0,8
+Italy,Picolit,91.11111111111111,70.0909090909091,27
+Italy,Piedirosso,86.5,21.307692307692307,20
+Italy,Pigato,84.0,23.0,2
+Italy,Pignoletto,84.5,16.333333333333332,4
+Italy,Pignolo,92.0,70.0,1
+Italy,Pinot Bianco,88.44805194805195,25.42361111111111,154
+Italy,Pinot Grigio,86.56033057851239,18.207513416815743,605
+Italy,Pinot Nero,88.75555555555556,35.05696202531646,180
+Italy,Pinot Noir,86.83333333333333,24.5,6
+Italy,Primitivo,86.71186440677967,21.78,118
+Italy,Prié Blanc,88.33333333333333,24.2,6
+Italy,Prosecco,86.40851063829787,19.315,235
+Italy,Prugnolo Gentile,88.72093023255815,47.53125,43
+Italy,Pugnitello,87.66666666666667,49.0,3
+Italy,Raboso,86.25,25.266666666666666,16
+Italy,Rebo,88.0,27.0,2
+Italy,Red Blend,88.80022075055187,39.68556543058535,3624
+Italy,Refosco,86.44444444444444,29.714285714285715,9
+Italy,Ribolla Gialla,87.59210526315789,28.23611111111111,76
+Italy,Riesling,87.83333333333333,21.0,24
+Italy,Rosato,86.81632653061224,17.34567901234568,98
+Italy,Roscetto,88.0,,1
+Italy,Rosé,85.83561643835617,15.666666666666666,73
+Italy,Roviello,92.5,28.0,2
+Italy,Ruché,86.83333333333333,26.666666666666668,12
+Italy,Sagrantino,89.93,53.38202247191011,100
+Italy,Sangiovese,88.80706401766004,49.15618556701031,2265
+Italy,Sangiovese Grosso,90.53466666666667,65.67006802721089,750
+Italy,Sauvignon,88.23489932885906,27.06338028169014,298
+Italy,Sauvignon Blanc,86.95918367346938,23.22222222222222,49
+Italy,Schiava,88.17391304347827,19.043478260869566,23
+Italy,Shiraz,87.0,16.75,5
+Italy,Silvaner,87.0,,1
+Italy,Sirica,92.5,23.0,2
+Italy,Sparkling Blend,88.52298850574712,40.57347670250896,348
+Italy,Susumaniello,89.66666666666667,30.8,6
+Italy,Sylvaner,88.6923076923077,23.615384615384617,13
+Italy,Syrah,88.9047619047619,52.85271317829457,147
+Italy,Sémillon,86.0,15.0,1
+Italy,Tannat,86.0,28.0,1
+Italy,Tempranillo,88.66666666666667,31.0,6
+Italy,Teroldego,89.9375,33.9375,16
+Italy,Teroldego Rotaliano,86.0,15.0,1
+Italy,Timorasso,90.6,41.6,5
+Italy,Tintilia ,87.0,25.0,1
+Italy,Tocai,88.66666666666667,22.25,9
+Italy,Tocai Friulano,86.85714285714286,38.2,7
+Italy,Torbato,91.0,20.0,2
+Italy,Traminer,87.11111111111111,16.857142857142858,9
+Italy,Trebbiano,87.29787234042553,23.82051282051282,47
+Italy,Trebbiano Spoletino,87.71428571428571,22.4,7
+Italy,Trebbiano di Lugana,87.66666666666667,29.333333333333332,3
+Italy,Turbiana,88.82165605095541,23.89041095890411,157
+Italy,Uva di Troia,87.6923076923077,24.46153846153846,13
+Italy,Uvalino,88.0,29.0,2
+Italy,Veltliner,90.0,29.5,4
+Italy,Verdeca,86.2,15.6,5
+Italy,Verdicchio,87.83536585365853,21.987577639751553,164
+Italy,Verduzzo,89.66666666666667,33.0,6
+Italy,Verduzzo Friulano ,88.66666666666667,54.333333333333336,3
+Italy,Vermentino,87.60759493670886,22.69503546099291,158
+Italy,Vermentino Nero,88.0,45.0,1
+Italy,Vernaccia,87.29710144927536,18.634920634920636,138
+Italy,Vespaiolo,92.0,40.0,1
+Italy,Vespolina,88.0,25.0,2
+Italy,Viognier,87.07692307692308,30.166666666666668,13
+Italy,Vitovska,90.5,85.0,2
+Italy,White Blend,87.90757381258022,28.104545454545455,779
+Italy,Zibibbo,89.64516129032258,37.357142857142854,31
+Lebanon,Chardonnay,88.0,30.0,1
+Lebanon,Red Blend,87.9375,37.1875,16
+Lebanon,Rhône-style Red Blend,91.0,27.0,1
+Lebanon,Rosé,87.0,18.0,5
+Lebanon,Syrah-Cabernet Sauvignon,91.0,35.0,2
+Lebanon,White Blend,86.6,26.2,10
+Luxembourg,Auxerrois,90.0,22.0,1
+Luxembourg,Riesling,88.0,23.0,2
+Luxembourg,Sparkling Blend,88.5,28.0,2
+Luxembourg,White Blend,89.0,16.0,1
+Macedonia,Chardonnay,87.0,15.0,1
+Macedonia,Pinot Noir,86.0,15.0,3
+Macedonia,Red Blend,86.0,16.0,1
+Macedonia,Rkatsiteli,88.0,15.0,1
+Macedonia,Sauvignon,88.0,15.0,1
+Macedonia,Vranec,87.33333333333333,17.0,3
+Macedonia,White Blend,85.0,15.0,1
+Macedonia,Žilavka,88.0,15.0,1
+Mexico,Bordeaux-style Red Blend,88.0,40.0,1
+Mexico,Cabernet Blend,87.0,20.0,1
+Mexico,Cabernet Franc,86.0,39.0,1
+Mexico,Cabernet Sauvignon,84.25,33.375,8
+Mexico,Cabernet Sauvignon-Merlot,86.0,23.0,1
+Mexico,Chardonnay,83.55555555555556,17.0,9
+Mexico,Chenin Blanc,83.0,13.333333333333334,3
+Mexico,Cinsault,80.0,15.0,1
+Mexico,Grenache,85.0,28.0,1
+Mexico,Merlot,82.0,30.0,1
+Mexico,Muscatel,87.0,19.0,2
+Mexico,Nebbiolo,86.16666666666667,24.333333333333332,6
+Mexico,Petite Sirah,84.66666666666667,13.666666666666666,3
+Mexico,Red Blend,88.0,43.642857142857146,14
+Mexico,Rosado,86.0,17.0,1
+Mexico,Rosé,82.5,23.0,2
+Mexico,Sauvignon Blanc,84.71428571428571,15.428571428571429,7
+Mexico,Sauvignon Blanc-Chenin Blanc,86.0,22.0,1
+Mexico,Shiraz,82.0,23.0,1
+Mexico,Syrah,83.0,35.0,1
+Mexico,Syrah-Mourvèdre,91.0,45.0,1
+Mexico,Tempranillo,82.5,24.0,2
+Mexico,White Blend,85.5,20.0,2
+Moldova,Bordeaux-style Red Blend,90.0,35.0,2
+Moldova,Cabernet Sauvignon,87.75,14.125,8
+Moldova,Champagne Blend,83.0,12.0,1
+Moldova,Chardonnay,86.5,20.0,2
+Moldova,Feteasca,88.0,13.0,1
+Moldova,Feteasca Neagra,88.0,12.0,1
+Moldova,Feteascǎ Regalǎ,87.0,11.0,2
+Moldova,Merlot,86.5,9.0,2
+Moldova,Merlot-Cabernet Sauvignon,87.0,16.0,1
+Moldova,Moscato,85.0,10.0,1
+Moldova,Muscat,84.6,9.2,5
+Moldova,Pinot Grigio,87.0,12.666666666666666,3
+Moldova,Pinot Gris,86.0,9.0,2
+Moldova,Rara Neagra,89.5,17.5,2
+Moldova,Red Blend,87.81818181818181,22.545454545454547,11
+Moldova,Riesling,90.0,23.0,1
+Moldova,Rosé,90.0,16.0,1
+Moldova,Saperavi,82.0,13.0,1
+Moldova,Sauvignon Blanc,85.66666666666667,13.0,3
+Moldova,Sparkling Blend,85.0,13.0,1
+Moldova,Traminer,88.5,13.0,2
+Moldova,White Blend,88.33333333333333,24.5,6
+Morocco,Cabernet Blend,89.0,18.0,1
+Morocco,Cabernet Sauvignon Grenache,89.0,14.0,1
+Morocco,Chardonnay,88.33333333333333,18.0,3
+Morocco,Red Blend,89.625,19.375,8
+Morocco,Sauvignon Blanc,88.0,18.0,5
+Morocco,Syrah,89.75,17.75,4
+Morocco,Syrah-Grenache,87.33333333333333,33.333333333333336,3
+Morocco,White Blend,86.33333333333333,14.666666666666666,3
+New Zealand,Bordeaux-style Red Blend,90.51851851851852,46.875,27
+New Zealand,Cabernet Merlot,90.0,25.0,2
+New Zealand,Cabernet Sauvignon,87.0,18.0,2
+New Zealand,Cabernet Sauvignon-Merlot,90.25,32.0,4
+New Zealand,Champagne Blend,91.0,35.0,1
+New Zealand,Chardonnay,88.75229357798165,30.495412844036696,109
+New Zealand,Chenin Blanc,89.66666666666667,25.666666666666668,3
+New Zealand,Gewürztraminer,88.0,21.0,3
+New Zealand,Grüner Veltliner,88.6,20.4,5
+New Zealand,Malbec,88.0,18.0,1
+New Zealand,Merlot,89.3,30.666666666666668,10
+New Zealand,Merlot-Cabernet,88.0,29.0,2
+New Zealand,Merlot-Cabernet Franc,89.0,39.0,1
+New Zealand,Merlot-Malbec,87.33333333333333,20.0,3
+New Zealand,Pinot Grigio,87.33333333333333,14.666666666666666,3
+New Zealand,Pinot Gris,87.6774193548387,20.60655737704918,62
+New Zealand,Pinot Noir,88.32612966601178,34.942268041237114,509
+New Zealand,Red Blend,89.0,30.0,1
+New Zealand,Riesling,87.87719298245614,19.818181818181817,57
+New Zealand,Rosé,86.2,16.8,5
+New Zealand,Sauvignon,85.0,15.0,2
+New Zealand,Sauvignon Blanc,88.05118829981718,18.719038817005547,547
+New Zealand,Sauvignon Blanc-Semillon,86.0,25.333333333333332,3
+New Zealand,Semillon-Sauvignon Blanc,82.0,14.0,1
+New Zealand,Sparkling Blend,87.6,24.7,10
+New Zealand,Syrah,90.42222222222222,42.23255813953488,45
+New Zealand,White Blend,90.0,16.0,1
+Peru,Cabernet Sauvignon-Syrah,84.0,17.0,1
+Peru,Chardonnay,82.0,14.0,1
+Peru,Malbec,84.5,14.5,2
+Peru,Malbec-Merlot,85.0,17.0,1
+Peru,Petit Verdot,84.0,20.0,1
+Peru,Red Blend,84.5,28.75,4
+Peru,Sauvignon Blanc,84.0,14.0,1
+Peru,Sparkling Blend,80.0,15.0,1
+Peru,Syrah,81.0,14.0,1
+Peru,Tannat,85.0,14.0,1
+Peru,White Blend,82.5,10.0,2
+Portugal,Alfrocheiro,88.6875,26.5625,16
+Portugal,Alicante Bouschet,89.65116279069767,32.34146341463415,43
+Portugal,Alvarelhão,88.0,24.0,1
+Portugal,Alvarinho,88.79411764705883,19.347826086956523,136
+Portugal,Alvarinho-Chardonnay,87.0,11.25,5
+Portugal,Antão Vaz,87.70588235294117,19.764705882352942,17
+Portugal,Aragonez,87.7,23.5,10
+Portugal,Aragonês,88.6,29.571428571428573,10
+Portugal,Arinto,87.11688311688312,15.863636363636363,77
+Portugal,Avesso,88.0,16.333333333333332,6
+Portugal,Azal,86.0,13.666666666666666,3
+Portugal,Baga,90.13793103448276,36.25925925925926,29
+Portugal,Baga-Touriga Nacional,91.0,40.0,2
+Portugal,Bastardo,86.0,32.0,1
+Portugal,Bical,86.38461538461539,15.25,13
+Portugal,Bordeaux-style Red Blend,93.0,41.2,5
+Portugal,Bual,94.14285714285714,100.0,7
+Portugal,Cabernet Blend,86.0,13.0,1
+Portugal,Cabernet Sauvignon,88.125,19.4,16
+Portugal,Cabernet Sauvignon-Syrah,90.0,22.0,1
+Portugal,Castelão,87.41176470588235,16.5,34
+Portugal,Cerceal,89.66666666666667,44.666666666666664,3
+Portugal,Cercial,88.0,50.0,1
+Portugal,Chardonnay,87.6470588235294,17.647058823529413,17
+Portugal,Chardonnay-Viognier,86.0,20.0,1
+Portugal,Chenin Blanc,90.33333333333333,19.666666666666668,3
+Portugal,Códega do Larinho,87.75,18.0,4
+Portugal,Encruzado,89.64102564102564,24.147058823529413,39
+Portugal,Espadeiro,84.0,,1
+Portugal,Fernão Pires,87.25,20.928571428571427,36
+Portugal,Gewürztraminer,85.0,20.0,2
+Portugal,Gewürztraminer-Riesling,82.0,28.0,1
+Portugal,Gouveio,88.5,22.5,2
+Portugal,Jaen,90.0,33.2,6
+Portugal,Jampal,88.0,25.0,1
+Portugal,Loureiro,87.3103448275862,12.875,29
+Portugal,Loureiro-Arinto,86.0,10.0,1
+Portugal,Madeira Blend,88.0,49.0,2
+Portugal,Malvasia,88.0,30.0,1
+Portugal,Malvasia Fina,88.0,23.5,2
+Portugal,Maria Gomes,88.0,11.0,2
+Portugal,Maria Gomes-Bical,86.0,25.0,1
+Portugal,Merlot,88.14285714285714,19.75,14
+Portugal,Merlot-Syrah,88.0,24.0,1
+Portugal,Moscatel,89.41176470588235,48.92857142857143,17
+Portugal,Moscatel Graúdo,87.5,13.0,2
+Portugal,Moscatel Roxo,89.5,22.0,6
+Portugal,Muscat,87.0,8.5,2
+Portugal,Petit Verdot,89.77777777777777,30.428571428571427,9
+Portugal,Petite Verdot,90.5,33.0,2
+Portugal,Pinot Noir,88.36842105263158,31.933333333333334,19
+Portugal,Port,89.9176276771005,68.26712328767124,607
+Portugal,Portuguese Red,88.81062449310625,24.819216757741348,2466
+Portugal,Portuguese Rosé,84.625,17.09090909090909,16
+Portugal,Portuguese Sparkling,86.07692307692308,17.72,65
+Portugal,Portuguese White,86.93097497842967,15.344827586206897,1159
+Portugal,Rabigato,89.0,34.0,2
+Portugal,Ramisco,93.0,495.0,1
+Portugal,Red Blend,88.57142857142857,21.571428571428573,7
+Portugal,Rhône-style Red Blend,92.66666666666667,45.0,3
+Portugal,Riesling,87.5,19.666666666666668,4
+Portugal,Rosado,86.0,13.0,1
+Portugal,Rosé,84.55744680851063,11.946078431372548,235
+Portugal,Sauvignon Blanc,86.52,18.869565217391305,25
+Portugal,Sercial,94.0,50.0,1
+Portugal,Shiraz,90.33333333333333,13.0,3
+Portugal,Siria,87.33333333333333,14.272727272727273,12
+Portugal,Sousão,88.125,36.75,8
+Portugal,Sparkling Blend,87.11111111111111,22.625,9
+Portugal,Syrah,88.51020408163265,30.692307692307693,49
+Portugal,Sémillon,89.75,31.0,4
+Portugal,Terrantez,95.0,236.0,1
+Portugal,Tinta Barroca,86.75,17.666666666666668,4
+Portugal,Tinta Cao,90.0,14.0,2
+Portugal,Tinta Francisca,90.33333333333333,50.0,3
+Portugal,Tinta Miúda,87.66666666666667,18.666666666666668,3
+Portugal,Tinta Negra Mole,92.0,112.0,1
+Portugal,Tinta Roriz,88.0909090909091,29.4,11
+Portugal,Touriga Franca,88.57142857142857,27.0,7
+Portugal,Touriga Nacional,89.10497237569061,28.74025974025974,181
+Portugal,Touriga Nacional Blend,88.82352941176471,19.833333333333332,17
+Portugal,Touriga Nacional-Cabernet Sauvignon,88.07142857142857,14.038461538461538,28
+Portugal,Trajadura,86.0,7.0,1
+Portugal,Trincadeira,87.65384615384616,19.833333333333332,26
+Portugal,Verdelho,87.17647058823529,23.76923076923077,34
+Portugal,Vinhão,86.25,22.0,4
+Portugal,Viognier,88.46666666666667,24.76923076923077,15
+Portugal,Viognier-Chardonnay,88.0,,1
+Portugal,Viosinho,88.4,23.4,5
+Portugal,Vital,90.0,,1
+Portugal,White Blend,87.625,21.25,8
+Portugal,White Port,86.0,,1
+Romania,Cabernet Sauvignon,86.125,9.9375,16
+Romania,Chardonnay,86.33333333333333,11.416666666666666,12
+Romania,Feteasca,87.0,22.0,1
+Romania,Feteasca Neagra,87.83333333333333,15.833333333333334,6
+Romania,Feteascǎ Regalǎ,86.75,9.75,4
+Romania,Gewürztraminer,86.0,8.0,1
+Romania,Merlot,86.1,19.4,10
+Romania,Moscato,86.0,7.2,5
+Romania,Muskat Ottonel,88.0,11.0,1
+Romania,Pinot Grigio,86.0,7.6,10
+Romania,Pinot Gris,86.66666666666667,16.333333333333332,3
+Romania,Pinot Noir,86.2,9.266666666666667,15
+Romania,Red Blend,87.6,25.9,10
+Romania,Riesling,84.25,86.25,4
+Romania,Rosé,82.0,9.0,1
+Romania,Sauvignon,89.0,18.0,1
+Romania,Sauvignon Blanc,86.53333333333333,11.266666666666667,15
+Romania,Tămâioasă Românească,88.0,11.0,2
+Romania,White Blend,85.66666666666667,14.0,3
+Serbia,Blauer Portugieser,87.0,16.0,1
+Serbia,Morava,87.0,26.0,1
+Serbia,Portuguiser,86.0,15.0,2
+Serbia,Red Blend,89.0,40.666666666666664,3
+Serbia,Riesling,87.0,21.333333333333332,3
+Serbia,Tamjanika,88.0,18.0,2
+Slovakia,Riesling,87.0,16.0,1
+Slovenia,Bordeaux-style Red Blend,89.25,40.25,4
+Slovenia,Cabernet Franc,89.0,35.0,1
+Slovenia,Cabernet Sauvignon,88.66666666666667,36.333333333333336,3
+Slovenia,Cabernet Sauvignon-Merlot,89.0,44.0,1
+Slovenia,Chardonnay,88.75,17.666666666666668,4
+Slovenia,Furmint,83.0,20.0,1
+Slovenia,Malvasia Istriana,87.0,30.0,2
+Slovenia,Merlot,89.0,37.0,1
+Slovenia,Merlot-Cabernet Franc,90.0,60.0,1
+Slovenia,Moscato,87.0,11.0,2
+Slovenia,Pinot Grigio,87.66666666666667,11.8,6
+Slovenia,Pinot Gris,88.66666666666667,29.333333333333332,3
+Slovenia,Pinot Noir,88.0,19.0,7
+Slovenia,Rebula,88.0,22.666666666666668,3
+Slovenia,Red Blend,88.5,25.5,4
+Slovenia,Refosco,86.0,18.0,1
+Slovenia,Ribolla Gialla,88.11111111111111,20.444444444444443,9
+Slovenia,Riesling,87.25,30.25,4
+Slovenia,Rosé,87.5,23.5,2
+Slovenia,Sauvignon,87.33333333333333,24.666666666666668,3
+Slovenia,Sauvignon Blanc,87.0,18.333333333333332,9
+Slovenia,Sauvignonasse,90.0,25.0,1
+Slovenia,Teran,89.0,21.5,2
+Slovenia,Traminer,85.0,20.0,1
+Slovenia,Vitovska,90.0,23.0,1
+Slovenia,White Blend,89.1,31.5,10
+Slovenia,Zelen,88.0,,1
+South Africa,Bordeaux-style Red Blend,90.47191011235955,51.1125,89
+South Africa,Bordeaux-style White Blend,90.5,55.0,2
+South Africa,Cabernet,87.0,12.0,1
+South Africa,Cabernet Blend,88.0,46.5,2
+South Africa,Cabernet Franc,90.0,27.5,3
+South Africa,Cabernet Sauvignon,88.17424242424242,23.233333333333334,132
+South Africa,Cabernet Sauvignon-Cabernet Franc,87.0,26.0,1
+South Africa,Cabernet Sauvignon-Merlot,86.7,18.1,10
+South Africa,Cabernet Sauvignon-Merlot-Shiraz,87.0,10.0,1
+South Africa,Cabernet Sauvignon-Shiraz,90.25,18.0,4
+South Africa,Champagne Blend,87.0,16.75,5
+South Africa,Chardonnay,88.38095238095238,22.59235668789809,168
+South Africa,Chardonnay-Viognier,87.0,10.0,1
+South Africa,Chenin Blanc,87.85082872928177,19.881656804733726,181
+South Africa,Chenin Blanc-Sauvignon Blanc,84.83333333333333,10.5,6
+South Africa,Chenin Blanc-Viognier,90.0,35.0,1
+South Africa,Cinsault,90.5,58.0,2
+South Africa,Clairette,90.0,,1
+South Africa,Fumé Blanc,88.0,13.0,1
+South Africa,G-S-M,89.0,43.5,2
+South Africa,Gewürztraminer,89.0,18.0,1
+South Africa,Grenache-Syrah,91.0,65.0,2
+South Africa,Merlot,86.52941176470588,18.647058823529413,51
+South Africa,Merlot-Cabernet Franc,84.0,,1
+South Africa,Merlot-Cabernet Sauvignon,87.33333333333333,11.0,6
+South Africa,Merlot-Shiraz,86.0,18.0,1
+South Africa,Moscato,83.66666666666667,7.333333333333333,3
+South Africa,Mourvèdre,87.0,13.0,1
+South Africa,Muscat,94.5,70.0,2
+South Africa,Pinot Noir,89.03333333333333,39.82608695652174,30
+South Africa,Pinotage,87.41129032258064,23.89075630252101,124
+South Africa,Pinotage-Merlot,84.0,10.0,1
+South Africa,Red Blend,88.82795698924731,26.876543209876544,93
+South Africa,Rhône-style Red Blend,91.21428571428571,46.18181818181818,14
+South Africa,Riesling,87.875,18.375,8
+South Africa,Rosé,85.62962962962963,12.88888888888889,27
+South Africa,Roussanne,93.0,,1
+South Africa,Roussanne-Marsanne,91.0,,1
+South Africa,Sauvignon Blanc,86.93854748603351,15.850574712643677,179
+South Africa,Sauvignon Blanc-Chenin Blanc,87.0,13.0,2
+South Africa,Sauvignon Blanc-Semillon,90.5,31.0,2
+South Africa,Semillon-Sauvignon Blanc,90.5,30.0,2
+South Africa,Shiraz,87.88172043010752,28.285714285714285,93
+South Africa,Shiraz-Cabernet Sauvignon,87.0,20.75,5
+South Africa,Shiraz-Mourvèdre,88.0,16.0,1
+South Africa,Sparkling Blend,86.41666666666667,25.333333333333332,12
+South Africa,Syrah,89.51923076923077,37.229166666666664,52
+South Africa,Syrah-Cabernet,82.0,10.0,1
+South Africa,Syrah-Cabernet Sauvignon,91.0,75.0,1
+South Africa,Syrah-Mourvèdre,88.0,13.0,1
+South Africa,Syrah-Viognier,89.0,20.0,2
+South Africa,Sémillon,90.0,32.333333333333336,6
+South Africa,Tinta Barroca,91.0,53.0,1
+South Africa,Viognier,87.45,20.0,20
+South Africa,Viognier-Grenache Blanc,87.0,35.0,1
+South Africa,White Blend,88.125,21.94736842105263,40
+Spain,Airen,81.66666666666667,9.0,3
+Spain,Albariño,87.46470588235294,20.640117994100294,340
+Spain,Alicante Bouschet,83.0,10.0,1
+Spain,Babosa Negro,92.0,45.0,1
+Spain,Bobal,86.0,21.52173913043478,23
+Spain,Bobal-Cabernet Sauvignon,84.0,9.0,1
+Spain,Bordeaux-style Red Blend,86.88888888888889,44.666666666666664,9
+Spain,Cabernet Blend,89.0,89.8,5
+Spain,Cabernet Franc,86.0,28.0,1
+Spain,Cabernet Sauvignon,87.20754716981132,31.75,53
+Spain,Cabernet Sauvignon-Cabernet Franc,89.0,30.0,1
+Spain,Cabernet Sauvignon-Merlot,88.44444444444444,16.444444444444443,9
+Spain,Cabernet Sauvignon-Shiraz,90.0,40.0,1
+Spain,Cabernet Sauvignon-Syrah,89.66666666666667,30.333333333333332,3
+Spain,Cabernet Sauvignon-Tempranillo,86.14285714285714,14.5,14
+Spain,Carignan,93.2,173.3,10
+Spain,Carignan-Grenache,89.16666666666667,32.333333333333336,6
+Spain,Carineña,86.2,22.2,5
+Spain,Cariñena-Garnacha,89.5,31.0,2
+Spain,Champagne Blend,83.84615384615384,10.76923076923077,13
+Spain,Chardonnay,84.83783783783784,19.788732394366196,74
+Spain,Chardonnay-Sauvignon Blanc,87.0,12.0,1
+Spain,Doña Blanca,84.0,53.0,1
+Spain,Forcallà,83.0,27.0,1
+Spain,Garnacha,85.84984025559105,22.96153846153846,313
+Spain,Garnacha Blanca,86.13513513513513,18.45945945945946,37
+Spain,Garnacha Blend,87.5,19.0,2
+Spain,Garnacha Tintorera,87.125,16.75,8
+Spain,Garnacha-Cabernet,85.0,13.0,1
+Spain,Garnacha-Cariñena,93.0,57.0,1
+Spain,Garnacha-Monastrell,87.0,11.666666666666666,3
+Spain,Garnacha-Syrah,84.61538461538461,13.23076923076923,13
+Spain,Garnacha-Tempranillo,86.33333333333333,11.0,6
+Spain,Godello,86.91358024691358,22.506493506493506,81
+Spain,Graciano,88.03333333333333,53.37931034482759,30
+Spain,Grenache,86.3913043478261,15.391304347826088,23
+Spain,Grenache Blanc,86.83333333333333,26.5,6
+Spain,Grenache Blend,84.66666666666667,12.666666666666666,6
+Spain,Grenache-Carignan,89.4,30.1,10
+Spain,Grenache-Syrah,88.0,13.333333333333334,3
+Spain,Hondarrabi Zuri,86.17647058823529,21.176470588235293,17
+Spain,Jaen,86.0,20.0,1
+Spain,Listán Negro,87.66666666666667,28.333333333333332,3
+Spain,Macabeo,85.43478260869566,17.782608695652176,23
+Spain,Macabeo-Chardonnay,85.0,11.75,4
+Spain,Macabeo-Moscatel,85.0,8.0,1
+Spain,Malvar,81.0,12.0,1
+Spain,Malvasia,84.5,18.5,6
+Spain,Malvasia-Viura,85.0,17.666666666666668,3
+Spain,Mataro,90.0,40.0,1
+Spain,Maturana,86.5,57.5,6
+Spain,Mazuelo,87.75,78.25,4
+Spain,Mencía,88.74157303370787,28.09826589595376,178
+Spain,Merlot,84.93333333333334,17.466666666666665,15
+Spain,Merlot-Cabernet Sauvignon,86.0,16.5,4
+Spain,Merseguera-Sauvignon Blanc,85.0,9.0,1
+Spain,Meseguera,91.0,35.0,1
+Spain,Monastrell,87.04285714285714,19.489208633093526,140
+Spain,Monastrell-Petit Verdot,88.0,19.5,2
+Spain,Monastrell-Syrah,86.23809523809524,18.761904761904763,21
+Spain,Moscatel,88.05555555555556,32.638888888888886,36
+Spain,Moscatel de Alejandría,85.33333333333333,18.666666666666668,3
+Spain,Moscato,83.81818181818181,11.909090909090908,11
+Spain,Muscat,87.125,17.625,8
+Spain,Muscat of Alexandria,91.0,26.0,1
+Spain,Palomino,89.23529411764706,37.94117647058823,17
+Spain,Pansa Blanca,85.57142857142857,17.785714285714285,14
+Spain,Paralleda,83.0,11.0,1
+Spain,Parraleta,86.0,14.0,1
+Spain,Pedro Ximénez,90.85714285714286,35.51428571428571,35
+Spain,Petit Verdot,89.5,54.2,10
+Spain,Petite Verdot,86.5,40.0,2
+Spain,Picapoll,82.0,21.0,1
+Spain,Pinot Noir,87.0,19.818181818181817,11
+Spain,Premsal,83.0,15.0,1
+Spain,Prieto Picudo,86.13333333333334,39.4,15
+Spain,Red Blend,88.15403422982885,35.30816831683168,818
+Spain,Rhône-style Red Blend,85.0,15.5,2
+Spain,Riesling,82.0,20.0,1
+Spain,Rosado,84.61971830985915,13.072463768115941,71
+Spain,Rosé,84.85333333333334,12.60135135135135,150
+Spain,Rufete,85.5,28.5,2
+Spain,Sauvignon,85.6,15.2,5
+Spain,Sauvignon Blanc,84.36363636363636,13.757575757575758,33
+Spain,Sauvignon Blanc-Chardonnay,84.5,12.5,2
+Spain,Sauvignon Blanc-Verdejo,84.75,12.25,4
+Spain,Sherry,89.82474226804123,36.08247422680412,97
+Spain,Shiraz,87.5,13.5,2
+Spain,Shiraz-Cabernet Sauvignon,88.0,36.0,2
+Spain,Shiraz-Tempranillo,82.0,8.5,2
+Spain,Sparkling Blend,86.8169014084507,19.965376782077392,497
+Spain,Syrah,88.54285714285714,31.029411764705884,35
+Spain,Syrah-Grenache,85.5,16.333333333333332,6
+Spain,Syrah-Merlot,89.0,20.0,1
+Spain,Syrah-Petit Verdot,90.0,35.0,2
+Spain,Syrah-Tempranillo,87.0,15.0,1
+Spain,Tempranillo,87.53883834849545,31.020567375886525,1429
+Spain,Tempranillo Blanco,83.66666666666667,29.11111111111111,9
+Spain,Tempranillo Blend,88.26632302405498,35.99653379549393,582
+Spain,Tempranillo-Cabernet Sauvignon,86.43137254901961,50.3921568627451,51
+Spain,Tempranillo-Garnacha,85.06666666666666,11.3,30
+Spain,Tempranillo-Merlot,85.28571428571429,19.428571428571427,7
+Spain,Tempranillo-Shiraz,84.75,14.25,8
+Spain,Tempranillo-Syrah,82.0,12.0,1
+Spain,Tinta Fina,87.9090909090909,30.0,11
+Spain,Tinta de Toro,89.59036144578313,45.35757575757576,166
+Spain,Tinta del Pais,95.0,47.5,2
+Spain,Tinta del Toro,86.33333333333333,23.333333333333332,3
+Spain,Tinto Fino,89.88,64.25,100
+Spain,Tinto Velasco,85.0,9.0,1
+Spain,Tinto del Pais,87.88888888888889,39.44444444444444,18
+Spain,Touriga Nacional Blend,90.0,144.0,1
+Spain,Treixadura,87.33333333333333,17.0,3
+Spain,Trepat,87.8,21.4,10
+Spain,Verdejo,86.34827586206896,16.177700348432055,290
+Spain,Verdejo-Sauvignon Blanc,85.0,9.8,5
+Spain,Verdejo-Viura,85.72727272727273,10.818181818181818,22
+Spain,Verdil,86.0,18.0,1
+Spain,Verdosilla,84.0,17.0,1
+Spain,Vidadillo,89.0,24.0,1
+Spain,Viura,85.25233644859813,15.295238095238096,107
+Spain,Viura-Chardonnay,84.6923076923077,10.76923076923077,13
+Spain,Viura-Verdejo,84.5,12.0,2
+Spain,White Blend,86.16161616161617,20.24914675767918,297
+Spain,Xarel-lo,85.71428571428571,16.047619047619047,21
+Switzerland,Chasselas,90.0,28.0,1
+Switzerland,Merlot,83.0,38.0,1
+Switzerland,Pinot Noir,89.0,160.0,3
+Switzerland,Pinot Noir-Gamay,90.0,30.0,1
+Switzerland,White Blend,90.0,21.0,1
+Turkey,Bordeaux-style Red Blend,88.0,29.333333333333332,3
+Turkey,Boğazkere,89.75,25.75,4
+Turkey,Cabernet Sauvignon,89.0,32.0,2
+Turkey,Cabernet Sauvignon-Merlot,87.0,16.0,1
+Turkey,Chardonnay,89.0,17.0,1
+Turkey,Emir,86.75,16.0,4
+Turkey,Kalecik Karasi,89.13333333333334,24.8,15
+Turkey,Karalahna,87.0,15.0,1
+Turkey,Karasakiz,89.0,15.0,1
+Turkey,Kinali Yapincak,84.0,15.0,1
+Turkey,Kuntra,86.0,15.0,1
+Turkey,Merlot,86.0,120.0,1
+Turkey,Misket,85.0,19.0,1
+Turkey,Narince,87.14285714285714,21.285714285714285,7
+Turkey,Okuzgozu,89.5,23.875,8
+Turkey,Papaskarasi,86.66666666666667,21.333333333333332,3
+Turkey,Red Blend,87.73684210526316,26.157894736842106,19
+Turkey,Rosé,87.66666666666667,15.666666666666666,3
+Turkey,Sauvignon Blanc,89.0,18.0,1
+Turkey,Syrah,89.83333333333333,32.333333333333336,6
+Turkey,Syrah-Merlot,90.0,30.0,1
+Turkey,White Blend,86.0,15.0,2
+Turkey,Yapincak,85.5,18.0,2
+Turkey,Çalkarası,86.5,19.0,2
+US,Abouriou,85.0,75.0,1
+US,Aglianico,88.33333333333333,31.466666666666665,15
+US,Albariño,88.4885496183206,22.976744186046513,131
+US,Alicante Bouschet,88.33333333333333,27.666666666666668,6
+US,Aligoté,87.0,21.1,10
+US,Alvarelhão,85.0,18.0,1
+US,Alvarinho,84.0,19.0,1
+US,Apple,89.0,25.0,1
+US,Arneis,88.06666666666666,21.533333333333335,15
+US,Auxerrois,89.0,22.363636363636363,11
+US,Baco Noir,86.125,25.75,16
+US,Barbera,87.66386554621849,27.61764705882353,238
+US,Barbera-Nebbiolo,87.0,30.0,1
+US,Black Monukka,91.0,25.0,2
+US,Black Muscat,88.18181818181819,21.636363636363637,11
+US,Blanc du Bois,85.0,27.0,6
+US,Blaufränkisch,88.3125,26.6875,16
+US,Bordeaux-style Red Blend,89.69133771929825,58.03137039075399,1824
+US,Bordeaux-style White Blend,88.4047619047619,30.071428571428573,42
+US,Cabernet,89.0,19.0,1
+US,Cabernet Blend,88.71428571428571,57.95238095238095,21
+US,Cabernet Franc,87.95613160518445,34.53753753753754,1003
+US,Cabernet Franc-Cabernet Sauvignon,86.0,22.0,1
+US,Cabernet Franc-Lemberger,87.0,20.0,2
+US,Cabernet Franc-Merlot,88.6842105263158,45.11764705882353,19
+US,Cabernet Merlot,84.5,12.875,8
+US,Cabernet Pfeffer,87.5,30.0,2
+US,Cabernet Sauvignon,89.02529049897471,54.78887362637363,7315
+US,Cabernet Sauvignon-Barbera,84.0,45.0,1
+US,Cabernet Sauvignon-Cabernet Franc,89.0,54.666666666666664,12
+US,Cabernet Sauvignon-Carmenère,87.0,85.0,1
+US,Cabernet Sauvignon-Malbec,89.33333333333333,36.666666666666664,3
+US,Cabernet Sauvignon-Merlot,88.16216216216216,37.432432432432435,37
+US,Cabernet Sauvignon-Sangiovese,89.0,42.0,7
+US,Cabernet Sauvignon-Shiraz,83.0,9.0,1
+US,Cabernet Sauvignon-Syrah,89.9090909090909,44.72727272727273,66
+US,Cabernet Sauvignon-Tempranillo,87.0,18.0,1
+US,Cabernet-Shiraz,86.0,17.0,1
+US,Cabernet-Syrah,89.0,25.833333333333332,6
+US,Carignan,89.33333333333333,33.22222222222222,9
+US,Carignan-Grenache,88.5,27.5,2
+US,Carignane,88.83333333333333,27.24137931034483,30
+US,Carmenère,87.89583333333333,33.91489361702128,48
+US,Cayuga,84.5,16.0,2
+US,Chambourcin,83.72222222222223,17.666666666666668,18
+US,Champagne Blend,88.11224489795919,33.95918367346939,98
+US,Chancellor,80.5,16.0,2
+US,Charbono,88.1923076923077,34.30769230769231,26
+US,Chardonel,83.0,11.0,1
+US,Chardonnay,88.44361123364212,30.637383729514248,6801
+US,Chardonnay-Albariño,91.5,31.0,2
+US,Chardonnay-Pinot Blanc,88.0,26.0,1
+US,Chardonnay-Riesling,87.0,24.0,1
+US,Chardonnay-Semillon,85.66666666666667,21.333333333333332,3
+US,Chardonnay-Viognier,85.25,22.75,8
+US,Chelois,85.0,22.5,2
+US,Chenin Blanc,88.35245901639344,20.09917355371901,122
+US,Chenin Blanc-Viognier,87.33333333333333,14.166666666666666,12
+US,Cinsault,89.51612903225806,27.70967741935484,31
+US,Clairette,89.0,30.0,1
+US,Claret,88.18181818181819,50.06060606060606,33
+US,Colombard,88.25,22.833333333333332,12
+US,Cortese,85.0,18.0,2
+US,Counoise,88.83333333333333,31.083333333333332,12
+US,Debit,89.0,130.0,2
+US,Diamond,86.0,10.0,1
+US,Dolcetto,87.24,26.54,50
+US,Dornfelder,90.0,35.4,5
+US,Edelzwicker,88.33333333333333,20.0,3
+US,Falanghina,89.0,29.0,2
+US,Fiano,88.44444444444444,21.333333333333332,9
+US,Fumé Blanc,87.98529411764706,22.955882352941178,68
+US,G-S-M,88.85034013605443,35.78231292517007,147
+US,Gamay,87.2,32.5,5
+US,Gamay Noir,87.7,23.42105263157895,20
+US,Garnacha,87.84615384615384,28.307692307692307,13
+US,Garnacha Blanca,89.0,28.0,1
+US,Gewürztraminer,87.8103448275862,19.153086419753087,406
+US,Gewürztraminer-Riesling,89.0,30.0,3
+US,Graciano,89.76923076923077,30.53846153846154,13
+US,Greco,87.0,20.0,1
+US,Grenache,89.0806142034549,35.21730769230769,521
+US,Grenache Blanc,88.8360655737705,24.875,122
+US,Grenache Blend,89.75,37.75,4
+US,Grenache Noir,90.5,38.0,2
+US,Grenache-Carignan,90.6,26.4,5
+US,Grenache-Mourvèdre,87.2,27.8,5
+US,Grenache-Syrah,89.16,40.52,25
+US,Grüner Veltliner,88.46,21.721649484536083,100
+US,Jacquez,85.0,34.333333333333336,3
+US,Johannisberg Riesling,86.11111111111111,8.875,9
+US,Kerner,90.0,25.0,1
+US,Lagrein,87.71428571428571,35.285714285714285,7
+US,Lemberger,87.19354838709677,19.419354838709676,31
+US,Madeira Blend,88.0,42.0,1
+US,Madeleine Angevine,85.5,17.5,2
+US,Malbec,88.39664804469274,35.388367729831145,537
+US,Malbec-Cabernet Sauvignon,92.0,55.0,1
+US,Malbec-Merlot,87.33333333333333,28.0,6
+US,Malbec-Syrah,87.0,78.0,2
+US,Malbec-Tannat,91.0,50.0,2
+US,Malvasia,85.0,28.0,1
+US,Malvasia Bianca,88.6923076923077,22.0,13
+US,Marquette,84.5,18.0,2
+US,Marsanne,87.58974358974359,27.82051282051282,39
+US,Marsanne-Roussanne,87.11764705882354,27.0,17
+US,Marsanne-Viognier,86.5,27.5,2
+US,Mataro,87.33333333333333,22.666666666666668,3
+US,Melon,88.0,15.0,1
+US,Meritage,87.50393700787401,35.41897233201581,254
+US,Merlot,87.3868455214193,28.765652173913043,2311
+US,Merlot-Cabernet,88.83333333333333,24.0,6
+US,Merlot-Cabernet Franc,88.94444444444444,39.05555555555556,18
+US,Merlot-Cabernet Sauvignon,88.57142857142857,52.714285714285715,14
+US,Merlot-Malbec,87.0,85.0,1
+US,Merlot-Petite Verdot,83.0,20.0,1
+US,Mission,89.42857142857143,53.42857142857143,7
+US,Monastrell,91.0,29.142857142857142,7
+US,Mondeuse,87.0,30.0,1
+US,Montepulciano,87.13636363636364,31.363636363636363,22
+US,Morio Muskat,87.0,17.0,2
+US,Moscato,86.30188679245283,14.10377358490566,106
+US,Moscato Giallo,94.0,16.0,1
+US,Mourvèdre,89.14485981308411,34.556603773584904,214
+US,Mourvèdre-Syrah,90.5,56.5,2
+US,Muscadine,85.5,22.5,2
+US,Muscat,87.9090909090909,19.181818181818183,33
+US,Muscat Blanc,88.27272727272727,21.272727272727273,11
+US,Muscat Blanc à Petits Grains,87.0,20.0,1
+US,Muscat Canelli,87.5,20.555555555555557,36
+US,Muscat Hamburg,88.0,22.0,2
+US,Muscat d'Alexandrie,87.0,25.0,1
+US,Muskat,91.0,28.0,1
+US,Muskat Ottonel,86.28571428571429,20.571428571428573,7
+US,Müller-Thurgau,85.0,14.0,11
+US,Nebbiolo,88.20689655172414,36.267857142857146,58
+US,Negrette,85.5,32.5,2
+US,Negroamaro,90.0,50.0,1
+US,Nero d'Avola,88.0,29.0,4
+US,Norton,84.0,25.3125,16
+US,Orange Muscat,88.2,20.05,20
+US,Palomino,86.0,32.0,1
+US,Petit Manseng,85.77777777777777,26.27777777777778,18
+US,Petit Verdot,88.1131221719457,39.10045662100457,221
+US,Petite Sirah,88.21285140562249,31.601342281879194,747
+US,Petite Verdot,88.84,47.16,25
+US,Picpoul,89.875,28.25,8
+US,Pinot Auxerrois,89.0,22.0,1
+US,Pinot Blanc,88.04081632653062,20.84102564102564,196
+US,Pinot Blanc-Chardonnay,86.0,21.0,1
+US,Pinot Blanc-Pinot Noir,85.0,16.0,1
+US,Pinot Blanc-Viognier,87.0,19.0,1
+US,Pinot Grigio,85.89196675900277,15.077777777777778,361
+US,Pinot Grigio-Sauvignon Blanc,87.0,35.0,1
+US,Pinot Gris,88.00806451612904,18.609501738122827,868
+US,Pinot Gris-Gewürztraminer,90.0,20.0,1
+US,Pinot Meunier,88.25925925925925,31.962962962962962,27
+US,Pinot Nero,86.0,59.0,1
+US,Pinot Noir,89.60789074355084,44.59064624124987,9885
+US,Pinot Noir-Syrah,90.5,52.0,2
+US,Pinot-Chardonnay,89.5,29.166666666666668,6
+US,Pinotage,87.25,29.416666666666668,12
+US,Piquepoul Blanc,88.0,13.0,1
+US,Port,87.9,39.35,60
+US,Primitivo,87.29807692307692,28.097087378640776,104
+US,Prosecco,82.0,28.0,1
+US,Red Blend,87.85094212651413,33.65196743554952,2972
+US,Refosco,89.0,28.0,1
+US,Rhône-style Red Blend,89.36507936507937,36.94927536231884,693
+US,Rhône-style White Blend,88.6405529953917,28.02777777777778,217
+US,Ribolla Gialla,85.5,27.0,2
+US,Riesling,87.9560752994866,19.436676217765044,1753
+US,Riesling-Chardonnay,94.0,40.0,1
+US,Rkatsiteli,85.54545454545455,22.181818181818183,11
+US,Rosado,87.0,28.0,1
+US,Rosato,88.2,20.6,5
+US,Rosé,87.23373759647188,20.18777777777778,907
+US,Roussanne,88.45333333333333,27.30666666666667,150
+US,Roussanne-Grenache Blanc,91.0,16.0,1
+US,Roussanne-Marsanne,86.0,24.0,2
+US,Roussanne-Viognier,89.15384615384616,31.307692307692307,13
+US,Sagrantino,87.25,47.5,4
+US,Sangiovese,87.24942263279446,28.289044289044288,433
+US,Sangiovese Cabernet,88.5,47.75,4
+US,Sangiovese Grosso,87.0,45.0,1
+US,Sangiovese-Cabernet Sauvignon,86.0,30.0,6
+US,Sangiovese-Syrah,88.2,50.4,5
+US,Saperavi,85.75,30.0,4
+US,Sauvignon Blanc,87.47480351363846,20.551067780872796,2163
+US,Sauvignon Blanc-Chenin Blanc,87.0,16.0,1
+US,Sauvignon Blanc-Semillon,88.62162162162163,31.2972972972973,37
+US,Sauvignon Gris,92.0,40.0,2
+US,Sauvignon Musqué,87.0,18.0,1
+US,Scheurebe,90.0,50.0,2
+US,Semillon-Chardonnay,85.75,13.5,4
+US,Semillon-Sauvignon Blanc,89.42105263157895,33.0,38
+US,Seyval Blanc,84.1875,19.6875,16
+US,Sherry,89.66666666666667,22.0,3
+US,Shiraz,85.95744680851064,25.872340425531913,47
+US,Siegerrebe,84.0,15.0,1
+US,Silvaner,86.0,14.0,1
+US,Souzao,86.66666666666667,28.0,3
+US,Sparkling Blend,88.96312684365782,36.01032448377581,678
+US,St. Vincent,85.0,24.0,1
+US,Symphony,85.4,15.8,5
+US,Syrah,89.43156596794081,38.91553217821782,3244
+US,Syrah-Cabernet,88.14285714285714,37.857142857142854,7
+US,Syrah-Cabernet Franc,90.0,69.0,4
+US,Syrah-Cabernet Sauvignon,89.60714285714286,49.285714285714285,28
+US,Syrah-Grenache,89.3529411764706,35.5,34
+US,Syrah-Grenache-Viognier,90.0,45.0,1
+US,Syrah-Merlot,88.0,59.0,1
+US,Syrah-Mourvèdre,88.3,37.0,10
+US,Syrah-Petit Verdot,94.0,49.0,1
+US,Syrah-Petite Sirah,89.75,40.6875,16
+US,Syrah-Tempranillo,90.16666666666667,44.0,6
+US,Syrah-Viognier,89.625,47.625,8
+US,Sémillon,88.5952380952381,24.88095238095238,84
+US,Tannat,88.27450980392157,37.411764705882355,51
+US,Tannat-Syrah,93.0,40.0,1
+US,Tempranillo,87.66666666666667,33.00291545189504,345
+US,Tempranillo Blend,87.16666666666667,26.166666666666668,6
+US,Tempranillo-Cabernet Sauvignon,92.0,77.5,2
+US,Tempranillo-Garnacha,87.0,27.0,2
+US,Tempranillo-Syrah,91.0,23.0,1
+US,Teroldego,88.125,31.125,16
+US,Tinta Amarela,90.0,30.0,1
+US,Tinta Madeira,89.0,45.0,1
+US,Tocai Friulano,87.46666666666667,20.4,15
+US,Torrontés,89.8,26.8,5
+US,Touriga,89.33333333333333,45.666666666666664,3
+US,Touriga Nacional,86.89473684210526,28.842105263157894,19
+US,Touriga Nacional Blend,93.0,16.0,1
+US,Traminette,84.6,15.1,10
+US,Trebbiano,86.33333333333333,21.0,3
+US,Trousseau Gris,90.0,23.666666666666668,3
+US,Ugni Blanc,90.66666666666667,27.0,3
+US,Valdiguié,87.0,19.0,6
+US,Valvin Muscat,87.0,13.0,1
+US,Verdejo,85.75,18.25,4
+US,Verdelho,87.08333333333333,17.708333333333332,24
+US,Vermentino,87.76086956521739,22.347826086956523,46
+US,Vidal,85.66666666666667,18.333333333333332,3
+US,Vidal Blanc,86.175,25.4,40
+US,Vignoles,85.45454545454545,18.0,11
+US,Viognier,87.8126582278481,24.68702290076336,790
+US,Viognier-Chardonnay,86.0,37.0,2
+US,Viognier-Gewürztraminer,86.0,15.0,2
+US,Viognier-Grenache Blanc,91.0,30.5,2
+US,Viognier-Marsanne,88.0,22.0,2
+US,Viognier-Roussanne,88.0,25.714285714285715,7
+US,Viognier-Valdiguié,84.0,17.0,1
+US,White Blend,87.153125,21.629337539432175,640
+US,White Port,92.0,40.0,1
+US,White Riesling,88.58333333333333,15.916666666666666,12
+US,Zinfandel,87.82810770933234,29.492421441774493,2711
+US,Zweigelt,88.14285714285714,27.857142857142858,7
+Ukraine,Bastardo,85.0,9.0,1
+Ukraine,Cabernet Sauvignon,84.0,6.0,1
+Ukraine,Chardonnay,85.0,9.0,1
+Ukraine,Merlot,84.0,7.5,2
+Ukraine,Muscat Hamburg,86.0,9.0,1
+Ukraine,Riesling,88.0,9.0,1
+Ukraine,Rosé,84.0,6.0,1
+Ukraine,Sparkling Blend,82.83333333333333,11.0,6
+Uruguay,Albariño,87.33333333333333,22.333333333333332,6
+Uruguay,Cabernet Franc,85.0,20.0,2
+Uruguay,Cabernet Sauvignon,87.0,18.5,2
+Uruguay,Chardonnay,81.0,14.0,3
+Uruguay,Malbec,87.0,17.0,2
+Uruguay,Merlot,84.0,16.0,1
+Uruguay,Pinot Noir,85.4,19.2,5
+Uruguay,Red Blend,87.25,32.5,20
+Uruguay,Rosé,84.33333333333333,18.0,3
+Uruguay,Sauvignon Blanc,84.0,16.0,1
+Uruguay,Tannat,87.16981132075472,29.50943396226415,53
+Uruguay,Tannat-Cabernet Franc,90.0,19.0,2
+Uruguay,Tannat-Merlot,86.5,17.666666666666668,6
+Uruguay,Tannat-Syrah,84.0,16.0,1
+Uruguay,Tempranillo-Tannat,88.0,20.0,1
+Uruguay,White Blend,87.0,15.0,1
