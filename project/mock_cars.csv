@@ -1,0 +1,1001 @@
+car,carmodel,caryear,priceEach
+Mercedes-Benz,500SEL,1993,40.27
+Kia,Sorento,2012,42.68
+Ford,Focus,2005,22.55
+Volkswagen,New Beetle,2006,26.48
+Volkswagen,Passat,1986,31.62
+Ford,Taurus,1993,24.81
+Volkswagen,Eurovan,1994,36.18
+Audi,A4,2009,40.13
+Chevrolet,Express 2500,2008,46.87
+Pontiac,Sunbird,1988,36.3
+Mitsubishi,Eclipse,2009,46.79
+Audi,V8,1991,49.05
+Hyundai,Elantra,2002,42.49
+Subaru,Tribeca,2009,45.91
+Lexus,SC,2002,61.1
+Honda,CR-V,2004,36.16
+Kia,Sorento,2003,51.72
+Pontiac,Firebird Formula,1992,48.1
+Chevrolet,Malibu,2002,24.23
+Mitsubishi,Mirage,1988,23.61
+Hyundai,Entourage,2008,24.88
+BMW,M3,2006,47.73
+Chevrolet,Equinox,2008,37.01
+Mitsubishi,Eclipse,2003,55.03
+Jaguar,X-Type,2007,48.12
+Acura,RL,2012,33.38
+Mercedes-Benz,SLK-Class,1999,42.52
+BMW,5 Series,1998,45.95
+Mercury,Grand Marquis,2007,40.36
+Nissan,Pathfinder,2011,38.49
+Acura,SLX,1998,36.55
+Aston Martin,Virage,2012,43.99
+Mazda,Protege,1999,23.23
+Dodge,Grand Caravan,1994,61.37
+Infiniti,M,2003,21.75
+Cadillac,Escalade ESV,2009,47.05
+Acura,MDX,2011,28.63
+Chevrolet,Tahoe,2010,42.69
+Mercedes-Benz,W201,1985,58.06
+MINI,Clubman,2010,50.14
+Aston Martin,V8 Vantage,2008,50.26
+Audi,A4,1998,28.9
+Volkswagen,Golf,2002,39.42
+Ford,GT500,2008,38.86
+Nissan,Murano,2006,36.62
+Chevrolet,Suburban,2006,55.46
+Pontiac,Grand Am,2002,31.37
+Audi,Allroad,2004,24.34
+Lincoln,Mark VII,1992,71.75
+Jeep,Grand Cherokee,1999,52.79
+Toyota,Sequoia,2001,29.38
+Ford,Bronco II,1984,40.59
+Jeep,Wrangler,2010,62.22
+Audi,5000CS Quattro,1986,55.48
+Oldsmobile,Achieva,1992,45.06
+Mitsubishi,Galant,2003,45.75
+Ford,Explorer,1998,44.69
+GMC,2500,1999,23.62
+Lincoln,LS,2004,61.33
+BMW,M6,2007,46.96
+Pontiac,Tempest,1961,42.17
+Chrysler,PT Cruiser,2007,44.05
+Toyota,Sequoia,2009,55.73
+Isuzu,Oasis,1996,16.06
+GMC,Sonoma,1995,25.99
+Dodge,Grand Caravan,2009,42.24
+GMC,2500 Club Coupe,1993,49.01
+Lamborghini,Murciélago,2004,58.42
+Bentley,Continental Flying Spur,2007,27.95
+Audi,S8,2007,28.7
+Ford,E150,2007,49.07
+Daihatsu,Charade,1992,25.58
+Lexus,LS,1989,13.67
+BMW,Z4,2010,24.75
+Ford,Ranger,2007,43.24
+Isuzu,Hombre,2000,68.39
+Mitsubishi,Precis,1986,35.51
+Dodge,Ram Van 3500,1998,48.13
+Mitsubishi,Pajero,1990,42.01
+Isuzu,Trooper,1994,32.9
+BMW,7 Series,2005,48.52
+Audi,Allroad,2001,42.5
+Volvo,V90,1998,52.46
+Dodge,Caravan,2001,28.51
+Saab,9000,1998,29.96
+Infiniti,I,2003,41.1
+GMC,Savana,2007,38.72
+Volkswagen,GTI,2008,53.36
+Mitsubishi,Pajero,1995,59.19
+Mazda,Mazdaspeed 3,2008,38.64
+Lexus,GX,2008,53.47
+Infiniti,G25,2011,42.57
+Mercury,Grand Marquis,1986,65.23
+Mitsubishi,Lancer Evolution,2002,39.39
+Ford,Fusion,2013,46.16
+Ford,Escape,2011,57.52
+Ford,Mustang,1990,30.11
+Land Rover,Range Rover,1993,61.1
+Chevrolet,Avalanche,2011,56.0
+Dodge,Shadow,1993,63.8
+BMW,8 Series,1995,48.41
+Audi,Cabriolet,1998,41.82
+Jaguar,XJ,2009,32.67
+Pontiac,Bonneville,1984,46.45
+Nissan,Maxima,2005,33.48
+Saturn,Relay,2005,75.97
+Ford,F350,2007,36.64
+Chevrolet,Suburban 1500,2009,14.15
+Audi,4000s Quattro,1986,42.24
+Hyundai,Accent,2000,47.57
+Volvo,S60,2004,35.58
+Lincoln,Town Car,1999,51.02
+Hyundai,Tiburon,1999,38.97
+Ferrari,F430 Spider,2006,39.63
+Toyota,Yaris,2007,50.0
+Plymouth,Voyager,1999,30.08
+Chevrolet,Aveo,2009,54.71
+Isuzu,Hombre Space,1999,44.34
+Volkswagen,R32,2004,15.05
+Chevrolet,Silverado 2500,2000,51.8
+GMC,Sierra 3500,2012,28.93
+Chevrolet,Camaro,1977,33.44
+Ford,Probe,1991,41.51
+Acura,RL,2003,28.15
+BMW,Z4 M,2008,11.87
+Hyundai,Excel,1994,29.39
+Chevrolet,G-Series G20,1993,42.24
+Volvo,V40,2004,31.08
+Mazda,RX-7,1995,38.14
+Chevrolet,Silverado 3500,2002,25.41
+Volkswagen,Fox,1987,15.76
+Land Rover,Range Rover,2007,41.2
+Chrysler,Town & Country,2004,61.34
+Aston Martin,DBS,2008,34.56
+Dodge,Ram 3500,1994,20.6
+GMC,Suburban 2500,1992,46.71
+Chrysler,Town & Country,2002,19.17
+Cadillac,STS,2005,36.99
+Lexus,LS,2007,25.42
+Chevrolet,Camaro,1982,56.82
+Plymouth,Grand Voyager,1997,41.23
+Toyota,Land Cruiser,2008,50.31
+Kia,Spectra,2003,26.09
+Ford,Explorer Sport Trac,2002,31.33
+Nissan,JUKE,2011,49.03
+Oldsmobile,88,1997,53.39
+Mazda,Mazdaspeed 3,2010,35.44
+Honda,Accord Crosstour,2011,29.63
+Honda,Civic,2000,45.78
+Plymouth,Breeze,1997,43.46
+Honda,Prelude,1984,56.63
+Chevrolet,Colorado,2005,40.63
+Chevrolet,Express 1500,2009,35.5
+Toyota,Tacoma Xtra,1997,45.94
+Mazda,B-Series Plus,2004,48.78
+Buick,Regal,1999,34.27
+Pontiac,Sunbird,1994,36.32
+Honda,Element,2005,39.76
+GMC,Rally Wagon G2500,1995,48.44
+GMC,Sierra 1500,2007,33.34
+Lotus,Elise,2004,43.5
+Spyker,C8 Spyder Wide Body,2004,32.56
+Pontiac,Sunfire,2002,38.26
+Chevrolet,Corvette,1999,16.08
+Ford,Flex,2012,45.65
+Jaguar,XJ Series,2003,20.98
+Nissan,Murano,2007,51.99
+Oldsmobile,Bravada,2004,24.92
+Suzuki,Forenza,2005,51.78
+Mazda,Mazda3,2011,43.91
+Chevrolet,Silverado 1500,2011,39.61
+Isuzu,Trooper,1992,37.08
+Mazda,Mazda3,2008,19.87
+Kia,Optima,2011,54.8
+Volkswagen,Jetta III,1994,48.13
+Buick,Roadmaster,1995,71.91
+Chevrolet,Tahoe,2003,43.65
+Chrysler,Sebring,1998,33.15
+Chevrolet,G-Series 2500,1998,25.84
+GMC,Savana 2500,2005,33.59
+Ford,Escort,1999,65.21
+Chevrolet,Aveo,2006,50.67
+Mitsubishi,3000GT,1999,26.24
+Buick,Century,2005,24.86
+Chevrolet,Corvette,1992,33.99
+Chevrolet,Impala,2002,16.5
+Toyota,Celica,1996,34.2
+Jeep,Liberty,2007,35.31
+GMC,3500 Club Coupe,1997,39.84
+Ford,Courier,1987,43.13
+Volkswagen,Golf,1990,41.71
+Oldsmobile,Regency,1998,31.36
+Mazda,Miata MX-5,2008,44.16
+Chevrolet,G-Series G30,1995,23.32
+Ford,Courier,1986,55.14
+Lexus,GS,1994,62.37
+Honda,Odyssey,2001,35.97
+Dodge,D350,1992,41.32
+Chevrolet,Express 1500,2008,31.74
+Pontiac,Gemini,1987,16.94
+Ford,Festiva,1993,36.25
+Pontiac,Montana,2000,46.64
+Audi,100,1989,19.88
+Ford,LTD Crown Victoria,1988,43.6
+Cadillac,Allante,1992,48.0
+Buick,Riviera,1986,29.52
+Chevrolet,Camaro,1981,45.43
+Subaru,Outback,2012,35.78
+Nissan,350Z,2008,47.05
+Mercedes-Benz,E-Class,2007,34.42
+Ford,F350,1993,45.08
+GMC,1500,1994,37.05
+Volvo,C70,2012,40.42
+Lincoln,Mark VIII,1998,47.02
+Volkswagen,Beetle,1967,34.23
+GMC,Savana 3500,2003,30.77
+Lexus,RX,2008,31.69
+Mitsubishi,Eclipse,2011,32.41
+Lincoln,MKS,2013,42.66
+Mercedes-Benz,S-Class,2008,43.05
+Acura,Integra,1996,23.37
+Mitsubishi,Mighty Max Macro,1993,39.48
+Subaru,BRZ,2013,56.43
+Lexus,LX,2007,45.32
+Acura,TL,1998,42.08
+Buick,Park Avenue,1991,27.32
+MINI,Clubman,2011,58.25
+Plymouth,Grand Voyager,1996,34.34
+Cadillac,Fleetwood,1992,32.33
+Mercury,Grand Marquis,1989,46.72
+Maserati,Quattroporte,1985,51.9
+Jeep,Wrangler,2011,39.58
+Nissan,Pathfinder,1998,50.69
+Toyota,Tundra,2001,57.56
+Volkswagen,Phaeton,2006,32.4
+Ford,Escape,2001,32.26
+Lincoln,LS,2000,70.47
+Mazda,Mazda3,2006,51.6
+Oldsmobile,Silhouette,1997,40.61
+Chrysler,Town & Country,2000,38.29
+Mitsubishi,Pajero,1990,38.14
+Mercedes-Benz,Sprinter 2500,2012,46.43
+Dodge,Dynasty,1993,24.22
+Nissan,Cube,2011,36.01
+Austin,Mini,1959,59.66
+Mazda,Mazda6,2003,27.93
+Ford,Thunderbird,1997,51.2
+Toyota,Tacoma,2001,39.2
+Jeep,Commander,2008,60.93
+Subaru,Brat,1986,20.16
+Ford,F-Series,1993,53.44
+Land Rover,Range Rover,2011,55.73
+Buick,Regal,2000,43.5
+Pontiac,Sunbird,1985,22.56
+Hyundai,Accent,2009,59.98
+Aston Martin,DB9,2012,45.88
+Suzuki,Forenza,2004,49.38
+Jeep,Grand Cherokee,1997,53.1
+Oldsmobile,Silhouette,1999,36.19
+Chevrolet,Camaro,1999,34.05
+Mercury,Tracer,1994,41.68
+Mazda,Mazda3,2010,43.91
+Dodge,Stratus,2006,48.79
+Ford,Mustang,2003,50.46
+Mercedes-Benz,500E,1993,35.1
+Volkswagen,Touareg,2008,46.77
+Mitsubishi,Montero Sport,2000,45.76
+Plymouth,Horizon,1978,50.43
+Oldsmobile,Alero,2003,38.33
+Ford,Taurus,1990,42.49
+Nissan,Altima,1995,57.9
+Nissan,Pathfinder,2011,45.59
+Mazda,Millenia,1998,36.27
+Dodge,Daytona,1993,30.05
+Jeep,Wrangler,1999,51.97
+Cadillac,STS-V,2006,42.16
+Ford,F250,2008,28.12
+Dodge,Charger,2010,51.25
+GMC,Suburban 1500,1998,55.12
+Dodge,Ram 1500,2003,46.2
+Chrysler,300,2012,33.91
+Chevrolet,Impala,2006,47.12
+Nissan,350Z,2005,33.96
+Buick,Regal,2003,32.3
+Ford,E350,2009,60.84
+Jeep,Grand Cherokee,1995,35.59
+Chrysler,Cirrus,1998,51.34
+Hyundai,Tucson,2010,58.58
+Mercury,Topaz,1993,68.36
+GMC,Yukon XL 1500,2009,50.07
+Mazda,626,1999,50.21
+Mercedes-Benz,SLR McLaren,2008,37.52
+Buick,LeSabre,1998,34.13
+Ram,2500,2011,41.53
+Buick,Century,1991,30.36
+BMW,525,2005,45.67
+Nissan,Pathfinder,1996,41.97
+Suzuki,XL7,2006,41.95
+Volkswagen,Eurovan,1992,53.48
+Mazda,Miata MX-5,2006,53.89
+Ford,Explorer,2003,71.87
+Chevrolet,Caprice,1995,36.25
+BMW,M5,2000,38.94
+Infiniti,QX,2005,47.86
+Hyundai,Elantra,1994,41.81
+Chrysler,Sebring,2004,32.75
+Lincoln,Mark LT,2006,51.49
+Mazda,626,1992,43.94
+Chrysler,LHS,2001,56.69
+Mercedes-Benz,G-Class,2003,40.88
+Mercedes-Benz,GLK-Class,2010,44.8
+Toyota,Supra,1993,42.79
+Chevrolet,2500,1999,34.73
+Toyota,Highlander,2003,34.51
+Suzuki,SJ,1987,47.42
+Mercury,Grand Marquis,2009,46.85
+Nissan,Pathfinder,2007,41.66
+Porsche,911,2004,50.83
+Nissan,Maxima,2007,36.79
+Hyundai,Santa Fe,2003,18.32
+Buick,Skyhawk,1989,36.54
+Porsche,Cayman,2008,43.17
+Land Rover,Freelander,2003,32.61
+Chrysler,Concorde,1998,25.29
+Ford,F450,2008,31.32
+Ford,E-Series,2010,42.35
+Suzuki,SJ,1992,24.02
+Subaru,Forester,2009,41.21
+Chevrolet,Express 3500,2010,25.22
+Chevrolet,Express,2008,36.44
+Dodge,Caravan,1999,19.7
+Plymouth,Prowler,1997,33.72
+Audi,A6,2000,32.36
+Dodge,Dakota Club,1994,60.3
+Pontiac,Sunbird,1990,41.91
+Ford,E-Series,2006,38.76
+Jaguar,XJ Series,2003,36.83
+Smart,Fortwo,2012,44.3
+Jaguar,XK Series,2000,36.54
+Volkswagen,Golf,1989,50.9
+Mazda,Mazdaspeed6,2007,53.27
+Mercedes-Benz,E-Class,2005,35.12
+Volkswagen,Jetta,2009,29.63
+Chrysler,PT Cruiser,2006,40.5
+Subaru,Tribeca,2008,37.68
+Audi,V8,1994,32.9
+Chevrolet,Sportvan G30,1995,34.44
+Porsche,Boxster,2003,36.23
+Dodge,Ram 1500,1997,54.82
+Subaru,Tribeca,2009,25.55
+Acura,ZDX,2012,25.77
+Ford,F350,2005,33.46
+Volkswagen,Eos,2009,28.27
+Nissan,Sentra,2002,47.69
+Hyundai,Sonata,2010,29.23
+Ford,Explorer,2006,50.11
+Infiniti,G37,2011,41.0
+Porsche,911,2004,41.5
+GMC,Safari,2001,54.49
+Suzuki,Esteem,2002,28.71
+Chevrolet,Corvette,2012,20.19
+Oldsmobile,88,1992,43.79
+Ford,Tempo,1990,35.25
+Dodge,D150,1992,38.75
+Toyota,TundraMax,2008,45.87
+Mitsubishi,GTO,1996,37.16
+Toyota,4Runner,1998,28.29
+Ford,Transit Connect,2010,48.39
+Mitsubishi,Outlander,2012,47.9
+Dodge,Dynasty,1992,38.24
+Aston Martin,DBS,2008,61.79
+Mercedes-Benz,CLK-Class,2003,41.78
+Chevrolet,Tahoe,1996,33.58
+Mazda,626,2000,31.25
+Suzuki,Swift,1997,47.75
+Cadillac,XLR-V,2007,34.5
+Mercedes-Benz,CL-Class,2000,37.34
+Volkswagen,Phaeton,2005,49.48
+Audi,Q5,2011,48.33
+Mercedes-Benz,SLK-Class,2007,27.35
+GMC,Vandura 1500,1993,45.38
+Dodge,Neon,1995,17.39
+Dodge,Grand Caravan,2008,50.47
+Pontiac,Firefly,1995,39.67
+Acura,Legend,1988,27.32
+Mitsubishi,Mirage,1996,23.94
+Ford,Expedition EL,2012,61.22
+Volvo,XC70,2008,22.47
+Chevrolet,Silverado 2500,1999,35.89
+Jeep,Liberty,2010,28.84
+Dodge,Neon,1996,51.84
+Lincoln,Continental,1997,50.34
+Ford,GT500,2007,39.62
+Mitsubishi,Endeavor,2011,35.93
+Mitsubishi,Eclipse,2007,49.0
+Audi,R8,2012,34.8
+Toyota,Paseo,1992,44.23
+Lamborghini,Gallardo,2008,40.13
+Land Rover,Range Rover,2000,37.43
+GMC,Yukon XL 1500,2000,36.85
+Audi,A6,2004,43.9
+Volkswagen,Passat,1992,51.1
+Chrysler,300M,2001,25.9
+Porsche,928,1995,57.47
+Cadillac,Escalade EXT,2008,44.98
+Volvo,S90,1998,32.35
+Chevrolet,SSR,2004,45.33
+Ford,LTD Crown Victoria,1985,37.88
+Mitsubishi,Pajero,2006,13.95
+Mazda,Protege,1999,31.28
+Ford,Escort,1985,51.86
+Mercedes-Benz,C-Class,2009,24.67
+Mazda,Tribute,2010,41.38
+Hyundai,Santa Fe,2010,53.77
+Ford,F-Series Super Duty,2012,4.51
+Lexus,IS,2002,30.7
+Mitsubishi,Galant,2005,24.58
+Mercedes-Benz,E-Class,1990,54.92
+Ford,Econoline E150,2002,22.9
+Ford,F450,2008,33.55
+Audi,A6,2006,32.16
+Saturn,Relay,2006,39.41
+Nissan,240SX,1993,16.89
+Audi,A4,2003,36.3
+GMC,3500,1993,39.65
+Porsche,Cayman,2009,22.36
+Pontiac,Bonneville,1997,35.93
+Kia,Sephia,2000,26.6
+Kia,Rio,2013,33.01
+Toyota,Matrix,2010,64.42
+Cadillac,DeVille,1998,46.89
+Bentley,Continental GT,2008,48.38
+Nissan,Altima,2008,66.04
+Porsche,911,1999,43.29
+Chevrolet,Prizm,2001,25.33
+Ford,Taurus,1997,34.28
+Chevrolet,Blazer,1996,37.91
+Cadillac,STS,2005,28.39
+Cadillac,CTS,2007,31.88
+Mercury,Capri,1986,33.15
+Pontiac,Grand Prix,1969,51.71
+Subaru,Alcyone SVX,1992,21.34
+Lexus,LX,2009,55.81
+Cadillac,XLR,2009,58.85
+Ford,Edge,2012,34.99
+Nissan,Pathfinder,2005,17.59
+Chevrolet,Camaro,1998,25.1
+Plymouth,Neon,1996,37.76
+Chevrolet,S10,1992,58.24
+Land Rover,Range Rover,2003,19.85
+Chevrolet,Silverado 1500,2008,28.05
+Dodge,Ram 1500,2006,30.28
+Jaguar,XJ,2007,33.8
+Porsche,Cayenne,2012,44.02
+Plymouth,Laser,1993,34.23
+Mazda,626,1998,45.98
+Buick,Roadmaster,1993,37.55
+Mitsubishi,Mirage,2000,25.34
+Mitsubishi,Challenger,2000,53.01
+Audi,TT,2010,27.33
+Aston Martin,V8 Vantage,2010,33.92
+Chrysler,Sebring,2006,29.98
+Aston Martin,Vantage,2011,43.61
+Dodge,Neon,1997,32.9
+Chrysler,LeBaron,1994,38.58
+Ford,Econoline E150,1999,58.97
+GMC,Yukon XL 2500,2011,38.37
+Cadillac,XLR-V,2009,39.64
+Mitsubishi,Diamante,1998,45.29
+GMC,Sierra 2500,2011,37.22
+Volkswagen,Golf,1984,42.55
+Dodge,Ram Van 2500,1998,42.3
+Land Rover,Discovery,1997,46.44
+Toyota,Avalon,2003,34.45
+Chevrolet,Blazer,1998,36.58
+Porsche,Cayenne,2010,41.03
+Hyundai,Tiburon,1998,60.83
+Mitsubishi,Outlander,2011,28.25
+Nissan,Maxima,2004,49.11
+Ford,F450,2008,43.51
+Volvo,S40,2009,52.69
+Buick,Park Avenue,2000,40.86
+Ford,Contour,1999,45.98
+Acura,Integra,1995,40.99
+Oldsmobile,Silhouette,1995,30.03
+Chevrolet,Corvette,1958,40.44
+Kia,Sedona,2009,62.19
+Land Rover,Freelander,2002,67.78
+GMC,Sierra,2009,33.26
+GMC,Canyon,2004,6.65
+Subaru,Alcyone SVX,1997,34.52
+Volkswagen,Beetle,1967,49.54
+Ford,F150,1994,50.05
+Nissan,Maxima,1993,26.44
+Buick,Terraza,2007,50.88
+Chrysler,Pacifica,2005,66.31
+Mercedes-Benz,CLS-Class,2006,51.29
+Acura,RL,1997,49.19
+Mercury,Cougar,1969,7.4
+Nissan,240SX,1995,58.88
+Isuzu,Ascender,2007,45.44
+Saturn,S-Series,2000,39.44
+Chrysler,Town & Country,1993,42.57
+Mercury,Grand Marquis,1994,59.59
+Lincoln,Aviator,2003,22.31
+Lamborghini,Diablo,2000,45.0
+Mercury,Cougar,1996,52.96
+Dodge,Dakota,2002,64.24
+Acura,RSX,2005,22.73
+BMW,M5,2003,51.73
+Chrysler,Imperial,1926,69.23
+Toyota,Corolla,2010,36.82
+Dodge,Ram Van B350,1993,38.02
+Pontiac,Grand Prix,1979,41.23
+Land Rover,Range Rover,2009,12.15
+Mitsubishi,Precis,1993,34.28
+GMC,Rally Wagon G2500,1995,19.58
+Buick,Skyhawk,1986,28.03
+Cadillac,Escalade EXT,2009,44.29
+Pontiac,Bonneville,1997,12.85
+GMC,Suburban 1500,1995,31.57
+Audi,Coupe Quattro,1990,63.37
+Ferrari,430 Scuderia,2008,34.62
+Audi,5000CS,1987,34.71
+Buick,Coachbuilder,1994,49.78
+Land Rover,Range Rover Classic,1993,5.79
+Nissan,Rogue,2011,51.41
+Dodge,Stratus,1997,10.75
+Subaru,Alcyone SVX,1995,43.47
+Volkswagen,Touareg,2007,54.98
+Dodge,Ram 1500,1999,17.39
+Honda,CR-V,1999,46.94
+Nissan,Murano,2007,45.56
+Mazda,RX-8,2008,49.06
+Suzuki,Grand Vitara,2001,29.95
+Chevrolet,G-Series G30,1992,28.78
+Chrysler,PT Cruiser,2007,35.72
+Chrysler,Aspen,2007,25.35
+Studebaker,Avanti,1962,47.24
+Ford,Taurus,2013,35.9
+Mercedes-Benz,S-Class,2009,25.08
+BMW,550,2006,44.07
+Nissan,Xterra,2009,22.69
+Chevrolet,Camaro,1985,42.39
+Chevrolet,Camaro,1971,53.09
+Acura,Vigor,1992,79.52
+BMW,325,2005,35.51
+Toyota,Celica,2000,37.61
+BMW,7 Series,2003,37.44
+Plymouth,Sundance,1994,20.14
+Chrysler,Pacifica,2007,54.75
+Mercedes-Benz,300CE,1993,40.8
+Ford,Taurus,1992,31.5
+Eagle,Talon,1997,53.55
+GMC,2500 Club Coupe,1998,18.85
+Mercedes-Benz,SLK-Class,2004,39.79
+Lotus,Evora,2011,46.43
+Ford,Thunderbird,1972,30.06
+Subaru,Legacy,2003,31.74
+Mazda,B-Series,2000,37.64
+GMC,1500,1998,45.69
+Oldsmobile,88,1997,50.16
+Ford,Five Hundred,2005,28.91
+Isuzu,Trooper,2000,32.87
+Chevrolet,Uplander,2005,20.6
+Mercury,Marauder,2003,31.26
+Dodge,Charger,1968,50.9
+Chevrolet,Impala,2001,31.67
+Hyundai,Elantra,2000,49.79
+Peugeot,207,2007,37.03
+Acura,ZDX,2011,41.49
+Nissan,Murano,2003,46.57
+Isuzu,Amigo,1993,38.47
+BMW,7 Series,1995,39.37
+Mercedes-Benz,SL-Class,1993,41.14
+Toyota,Highlander,2008,37.04
+Subaru,Forester,2011,44.84
+Fiat,Nuova 500,2012,22.78
+Buick,Regal,1996,46.33
+Mitsubishi,Truck,1995,55.48
+Mazda,B-Series Plus,1993,36.05
+Chevrolet,Suburban,2011,28.64
+Lamborghini,Gallardo,2012,56.91
+Ford,Th!nk,2001,65.15
+Buick,Regal,2000,41.58
+Nissan,Quest,1995,30.25
+Honda,Odyssey,2011,22.37
+Buick,LeSabre,2003,57.71
+Chevrolet,3500,1995,39.45
+Honda,Passport,2002,40.42
+Lotus,Esprit,2004,31.24
+Dodge,Ram 2500,2007,43.66
+Lincoln,Navigator,1999,61.04
+BMW,M5,2000,51.99
+Chevrolet,Venture,2002,38.79
+Honda,Prelude,1985,31.92
+Toyota,Land Cruiser,2002,36.27
+Chevrolet,Camaro,1998,63.76
+Eagle,Talon,1998,57.31
+Ford,F350,2006,34.64
+Hyundai,Sonata,1997,34.07
+Ford,Freestar,2007,16.69
+Mercury,Mountaineer,2006,45.39
+Ford,Econoline E250,2001,38.92
+Toyota,Prius,2011,41.95
+Nissan,Maxima,2000,21.47
+Kia,Sorento,2011,19.83
+GMC,Envoy,1999,28.17
+Dodge,Dakota,2002,37.47
+Mercury,Grand Marquis,1999,40.03
+Alfa Romeo,Spider,1992,32.79
+Lincoln,Town Car,1987,36.33
+Lexus,LS,2001,17.14
+Volvo,850,1996,45.34
+Dodge,Viper,2010,42.53
+Saab,9000,1991,35.41
+Chevrolet,Venture,2003,32.36
+Mercedes-Benz,CLK-Class,2009,56.41
+Toyota,Land Cruiser,2001,30.45
+BMW,3 Series,1992,52.03
+Infiniti,QX,2001,40.06
+Chevrolet,Tahoe,2002,27.31
+Kia,Amanti,2005,34.0
+Geo,Tracker,1993,32.81
+Pontiac,6000,1988,35.15
+Chevrolet,Cruze,2013,40.43
+Cadillac,Escalade EXT,2004,51.97
+Mercury,Tracer,1998,41.15
+Ford,Bronco,1991,41.79
+Chevrolet,Silverado 3500,2008,36.57
+Honda,Pilot,2006,51.25
+Toyota,4Runner,2011,57.29
+GMC,3500,1993,35.18
+Acura,Legend,1988,37.68
+Cadillac,Brougham,1992,65.83
+Oldsmobile,Bravada,1994,54.67
+Dodge,Intrepid,2002,62.21
+BMW,750,2006,60.54
+Toyota,RAV4,1998,29.33
+Oldsmobile,Aurora,2002,31.51
+GMC,Yukon,2011,51.72
+Mercedes-Benz,CLS-Class,2009,50.2
+Mercedes-Benz,SLR McLaren,2005,20.74
+Cadillac,SRX,2009,43.71
+Lexus,LX,1996,26.27
+GMC,3500,1997,32.5
+Chevrolet,Tahoe,2005,36.88
+Toyota,Tacoma,2004,52.38
+GMC,Sierra,2011,42.28
+Audi,A4,2001,43.86
+Saab,900,1999,44.41
+Infiniti,G35,2007,24.61
+Pontiac,Sunbird,1988,54.33
+Volkswagen,Type 2,1988,49.82
+Citroën,SM,1972,26.72
+Maserati,Quattroporte,2009,59.87
+Toyota,Tacoma Xtra,1997,32.02
+Ford,Windstar,1997,18.42
+Volkswagen,Jetta,2000,31.76
+Chrysler,300,2009,45.54
+Chevrolet,Sportvan G30,1993,65.73
+Volkswagen,Jetta,1998,31.79
+Land Rover,Range Rover,2004,43.31
+Chevrolet,S10,1992,41.25
+Alfa Romeo,Spider,1993,30.6
+Mitsubishi,Eclipse,1997,35.61
+Nissan,Frontier,1999,46.65
+Toyota,Celica,1982,28.3
+Porsche,944,1983,38.1
+Ford,Flex,2011,65.24
+Mazda,323,1994,50.42
+Volkswagen,New Beetle,2012,34.43
+Pontiac,Fiero,1987,45.7
+Chevrolet,3500,1995,46.21
+Chevrolet,G-Series G20,1993,37.24
+Mercury,Cougar,1994,56.62
+Lexus,LX,2013,19.53
+Porsche,928,1988,47.96
+Buick,LeSabre,2005,30.49
+Chevrolet,Suburban 2500,1999,26.1
+Chevrolet,Corsica,1995,28.7
+BMW,6 Series,2009,36.08
+Acura,RL,2004,46.11
+Chevrolet,S10 Blazer,1994,33.25
+BMW,Z3,1996,37.39
+Hyundai,Sonata,1992,47.25
+Mitsubishi,Chariot,1987,36.88
+GMC,2500,1998,30.97
+Dodge,Ram 1500,2004,46.01
+Chevrolet,Malibu,2013,72.46
+GMC,Acadia,2012,44.45
+Mercedes-Benz,SLS-Class,2012,31.91
+BMW,530,2006,27.11
+Jeep,Wrangler,1992,51.24
+Chevrolet,Traverse,2010,48.61
+Pontiac,Parisienne,1984,65.56
+Chrysler,Concorde,1998,20.7
+Isuzu,Axiom,2002,30.21
+Chevrolet,Cavalier,1997,35.39
+Audi,Allroad,2001,44.39
+Mercedes-Benz,M-Class,2009,44.86
+BMW,M3,1997,35.11
+Rolls-Royce,Ghost,2011,17.16
+Dodge,Magnum,2008,12.14
+Kia,Optima,2009,46.54
+Aston Martin,DB9,2008,78.18
+Chevrolet,Camaro,1996,27.51
+Infiniti,JX,2013,24.93
+Chrysler,Sebring,2006,44.41
+Nissan,Armada,2010,71.9
+Dodge,Ram 3500,1998,45.46
+Mitsubishi,Mirage,1985,57.79
+Mercedes-Benz,SLK-Class,2005,45.01
+Saturn,Sky,2007,30.31
+Bentley,Azure,2009,38.37
+Volkswagen,Touareg,2006,30.54
+Ford,Econoline E250,1999,53.13
+Toyota,Sienna,2004,25.82
+Ford,Taurus X,2008,21.87
+Nissan,Murano,2004,32.82
+Ford,Escort,1998,57.58
+Volvo,C70,2013,27.41
+Mazda,CX-9,2007,50.4
+Chevrolet,Corsica,1996,29.68
+Chevrolet,Suburban,2006,32.77
+Pontiac,1000,1986,52.24
+Land Rover,Discovery,2001,50.83
+Scion,xA,2005,32.2
+Isuzu,Trooper,2000,23.08
+Chevrolet,1500,1992,33.19
+Nissan,Pathfinder,2000,56.49
+Pontiac,Firebird Formula,1999,46.82
+Saturn,Sky,2009,40.22
+Volkswagen,Jetta,2007,61.54
+Cadillac,CTS,2003,62.73
+Cadillac,DeVille,1992,32.99
+Oldsmobile,Cutlass,1999,28.83
+Chevrolet,Cobalt,2009,25.79
+Audi,TT,2001,46.55
+Acura,TL,1998,53.25
+Lexus,GS,2000,41.53
+Chrysler,Pacifica,2007,27.04
+Oldsmobile,98,1994,38.43
+Volkswagen,Type 2,1986,38.25
+Audi,S8,2008,32.97
+Nissan,Xterra,2004,37.56
+Chrysler,Concorde,2001,27.85
+Ford,Econoline E150,1995,31.54
+Audi,A4,2008,44.58
+Mitsubishi,Precis,1986,44.26
+Hyundai,Elantra,2005,39.42
+GMC,Sonoma,1993,53.39
+Suzuki,Swift,2000,31.89
+Aston Martin,V8 Vantage,2009,37.62
+Audi,Cabriolet,1994,51.92
+Infiniti,I,1996,57.13
+Dodge,Caravan,1994,31.55
+BMW,X5,2007,47.03
+Subaru,Impreza,2007,42.33
+Lincoln,Continental Mark VII,1992,39.54
+GMC,Suburban 2500,1994,45.98
+Subaru,Legacy,2003,43.77
+Lincoln,Navigator,2011,11.22
+Mercedes-Benz,CLK-Class,2008,21.43
+GMC,Jimmy,1997,39.9
+Volvo,S60,2005,47.71
+Chevrolet,Silverado 2500,2012,46.18
+Buick,LaCrosse,2009,38.26
+Ford,Escort,1994,18.84
+Nissan,Pathfinder,2009,30.28
+Kia,Optima,2011,41.47
+BMW,M3,2005,40.54
+Lincoln,Blackwood,2002,55.76
+Chrysler,PT Cruiser,2007,34.51
+Bentley,Continental Flying Spur,2006,39.43
+Honda,S2000,2009,31.93
+Pontiac,Grand Prix,1973,43.59
+Toyota,Camry,1993,30.58
+Honda,Accord,1997,43.09
+Lamborghini,Countach,1987,59.15
+Audi,5000S,1986,50.12
+Land Rover,LR4,2010,35.1
+Hummer,H2 SUT,2006,47.75
+Nissan,Titan,2006,25.13
+Toyota,Land Cruiser,1997,36.56
+Cadillac,Fleetwood,1996,39.1
+GMC,Vandura 1500,1992,40.16
+Audi,A8,2012,45.04
+Chevrolet,Cavalier,1992,40.68
+Volkswagen,Jetta,1998,50.38
+Saturn,S-Series,1998,30.14
+Subaru,BRZ,2013,41.02
+Nissan,JUKE,2012,34.02
+Ford,Excursion,2004,49.12
+Ford,E350,2010,32.06
+Mercury,Tracer,1994,42.4
+Mitsubishi,Tredia,1984,26.58
+Mitsubishi,Pajero,2004,50.8
+Hyundai,Elantra,1993,43.65
+Maserati,Quattroporte,2008,51.87
+Pontiac,GTO,1968,34.38
+Chevrolet,Astro,1992,22.94
+Suzuki,Grand Vitara,2011,30.82
+Subaru,Legacy,2002,52.68
+Dodge,Durango,2004,49.96
+BMW,530,2006,37.85
+Audi,A8,2011,49.46
+Volkswagen,Jetta,1986,39.5
+Volkswagen,Cabriolet,1999,35.07
+BMW,X3,2008,28.78
+Lotus,Evora,2010,37.01
+Chevrolet,Corvette,2005,60.48
+BMW,8 Series,1994,27.71
+Lamborghini,Diablo,1990,32.97
+Porsche,928,1990,27.95
+Toyota,Celica,2001,54.06
+BMW,3 Series,2005,44.36
+Acura,TSX,2004,17.73
+Pontiac,Monterey,2005,38.43
+Volvo,S90,1997,45.21
+Dodge,Grand Caravan,2009,37.98
+BMW,X5,2000,52.03
+Mazda,Protege,2003,37.48
+Hyundai,Tiburon,2000,60.01
+Subaru,XT,1991,53.72
+Buick,LeSabre,1990,40.15
+Mazda,Millenia,2001,25.41
+Dodge,Ram 2500,2001,52.75
+Plymouth,Laser,1989,47.22
+Ford,Explorer,2006,36.71
+Pontiac,G8,2008,41.78
+Dodge,Grand Caravan,1999,50.75
+Eagle,Talon,1991,45.27
+Cadillac,Seville,1996,49.43
+Chevrolet,Astro,1992,37.84
+Volkswagen,New Beetle,2004,37.12
+GMC,1500 Club Coupe,1992,56.13
+Ford,Thunderbird,1972,42.95
+GMC,Savana 1500,2011,38.29
+Infiniti,QX,2010,31.03
+Honda,CR-V,2001,51.15
+Porsche,Boxster,2009,42.49
+Mitsubishi,Excel,1988,56.67
+Dodge,Ram Van B150,1993,34.46
+Chevrolet,Venture,2003,52.16
+BMW,8 Series,1996,50.45
+Toyota,Tundra,2003,35.92
+Kia,Sedona,2012,43.63
+Volvo,V70,1998,39.1
+GMC,Sonoma Club Coupe,1997,42.36
+Volvo,XC60,2012,31.08
+Volvo,C70,2009,47.76
+Volvo,S40,2002,33.55
+Eagle,Vision,1997,50.72
+Mercury,Montego,2005,43.1
+Mercedes-Benz,Sprinter,2011,48.78
+Nissan,Pathfinder,2007,50.11
+Mitsubishi,Montero,1998,53.46
+Lamborghini,Countach,1987,31.19
+Subaru,Justy,1988,31.29
+Bentley,Continental GT,2009,25.66
+Pontiac,Bonneville,1967,38.46
+Volkswagen,GTI,2011,54.53
+GMC,Jimmy,2001,54.53
+Ford,Tempo,1988,26.94
+Chevrolet,Camaro,1973,55.4
+BMW,3 Series,1995,50.94
+Suzuki,Grand Vitara,2005,51.04
+GMC,Sierra 3500,2005,32.83
+Saturn,VUE,2008,42.74
+BMW,525,2004,6.93
+GMC,Sierra 3500,2004,37.16
+Saturn,S-Series,1995,42.24
+Chevrolet,Beretta,1992,53.67
+Toyota,Camry,2010,54.52
+Audi,A4,2011,48.16
+GMC,Sierra 2500,2008,37.29
+Audi,S4,2010,8.05
+Mitsubishi,Lancer,2008,38.13
+Toyota,Camry Solara,2008,43.06
+Ford,Crown Victoria,2007,47.94
+Chrysler,Town & Country,2001,34.89
+Aston Martin,Virage,2011,50.15
+Holden,VS Commodore,1997,33.85
+Plymouth,Sundance,1994,46.08
+Toyota,Corolla,2003,47.02
+Subaru,Legacy,2012,51.11
+Land Rover,Discovery,2000,18.15
+Isuzu,Space,1992,30.64
+Ford,Courier,1987,38.14
+Pontiac,Gemini,1986,31.15
+Toyota,Yaris,2010,40.64
+Jeep,Compass,2009,47.68
+Porsche,911,1998,31.1
+Mitsubishi,Pajero,2005,28.63
+Ford,E-Series,2012,39.99
+Toyota,Land Cruiser,2004,31.9
+Ford,Escort,1999,38.01
+Nissan,Murano,2009,40.61
+Nissan,GT-R,2011,36.09
+Dodge,Ram 1500,2010,55.47
+GMC,3500,1998,29.72
+Kia,Sedona,2005,54.49
+Lamborghini,Murciélago,2004,42.78
+Honda,Ridgeline,2012,33.51
+BMW,1 Series,2012,14.77
+Nissan,Pathfinder,2003,41.16
+Ford,Transit Connect,2013,30.66
+Dodge,Challenger,2008,66.26
+Dodge,Grand Caravan,2003,22.11
+Toyota,Camry Solara,2007,41.74
+Lotus,Esprit,2001,25.1
+Lincoln,MKS,2009,27.81
+Mazda,B-Series,2001,58.96
+Nissan,Pathfinder,1997,34.43
+Mazda,MPV,2005,31.32
+Aston Martin,V8 Vantage S,2011,47.5
+Toyota,Avalon,1997,54.53
+Mitsubishi,Truck,1990,26.52
+Audi,RS4,2008,26.13
+Volvo,XC90,2013,38.46
+Saab,9000,1988,27.91
+Toyota,Venza,2009,36.61
+Saturn,S-Series,2000,45.94
+Mitsubishi,Montero,1993,25.06
+Ford,Mustang,2001,41.98
+Porsche,Boxster,2013,23.31
+Mitsubishi,Montero,2000,59.5
+Hillman,Minx Magnificent,1950,51.21
+Lincoln,Continental,1987,41.86
+Mazda,Millenia,1996,30.38
+Bentley,Continental,2006,34.28
+Mitsubishi,Pajero,1993,45.74
+Ford,Explorer,2004,30.57
+Suzuki,XL7,2009,41.38
+Pontiac,6000,1989,46.66
+Pontiac,Grand Prix,1987,43.49
+Pontiac,Grand Prix,1979,29.45
+Dodge,Ram 1500 Club,2000,26.44
+Acura,TL,1998,56.44
+Mazda,Protege5,2003,45.37
+Bentley,Continental GTC,2009,32.19
+Honda,Fit,2012,39.36
+Subaru,Outback,2011,38.91
+Acura,RL,2000,49.26
+Kia,Sorento,2009,38.49
+Nissan,Armada,2006,52.36
+Dodge,Nitro,2007,57.59
+Oldsmobile,Intrigue,2002,27.01
+Mercury,Mariner,2010,42.89
+GMC,Sonoma Club Coupe,1997,54.77
+Audi,A6,1997,50.39
+Ford,Escort,1999,45.79
+Chevrolet,Corsica,1996,36.48
+Mitsubishi,3000GT,1996,53.36
+Oldsmobile,Silhouette,2001,51.98
+Dodge,Ram 1500,2007,44.97
+Ford,Thunderbird,1989,62.63
+Mercedes-Benz,S-Class,2005,54.99
+Buick,Rendezvous,2005,38.58
+Hyundai,Veloster,2012,50.62
+Ford,Ranger,2004,60.45
+Nissan,Armada,2008,32.66
+GMC,Yukon XL 2500,2007,51.73
+Cadillac,SRX,2012,42.04
+Audi,Coupe GT,1985,36.29
+Lexus,LS,2005,27.7
+Pontiac,Bonneville,1967,28.39
+Infiniti,QX,1998,48.16
+Mitsubishi,Pajero,1985,31.28
+Chevrolet,Express 3500,2007,46.49
+Nissan,Altima,2007,46.49
+GMC,Yukon,2005,54.79
+Acura,SLX,1997,40.25
+Volkswagen,Rabbit,2007,55.14
+Mazda,Familia,1989,55.35
+GMC,3500,1999,55.05
+Infiniti,G,2009,50.93
+Chevrolet,Silverado 2500,2001,29.56
+Saturn,Outlook,2008,61.2
+Lotus,Exige,2009,22.65
+MINI,Clubman,2009,44.27
+Scion,tC,2012,32.06
+Porsche,Boxster,1997,35.1
+Nissan,Maxima,1994,33.55
+Volkswagen,riolet,1992,53.47
+Toyota,Camry,1996,42.5
+Lincoln,Navigator,2007,44.56
+BMW,M Roadster,2008,41.77
+Toyota,Sequoia,2011,48.17
+Volvo,C70,2012,34.04
+Toyota,Matrix,2009,38.66
+Chrysler,Prowler,2002,26.2
+Ford,Focus,2009,35.02
+Chevrolet,Express 2500,2012,36.51
+Pontiac,Firebird,1987,38.38
+Ford,Ranger,2009,58.19
+Chevrolet,Malibu,2001,28.8
+Volkswagen,Touareg,2011,80.02
+Ford,Thunderbird,1993,38.35
