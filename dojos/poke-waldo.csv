@@ -278,7 +278,7 @@
 276,277,Torchic,Fire,,45,60,40,70,50,45,3,False
 277,278,Combusken,Fire,Fighting,60,85,60,85,60,55,3,False
 278,279,Blaziken,Fire,Fighting,80,120,70,110,70,80,3,False
-279,280,"Il s'est encore sauvé, parmi les Type 1 'Rock', il a maintenant la Defense minimum",Fire,Fighting,80,160,80,130,80,100,3,False
+279,280,"He escaped again. Among the Type 1 'Rock', he now has the minimum Defense",Fire,Fighting,80,160,80,130,80,100,3,False
 280,281,Mudkip,Water,,50,70,50,50,50,40,3,False
 281,282,Marshtomp,Water,Ground,70,85,70,60,70,50,3,False
 282,283,Swampert,Water,Ground,100,110,90,85,90,60,3,False
@@ -344,7 +344,7 @@
 342,343,Volbeat,Bug,,65,73,55,47,75,85,3,False
 343,344,Illumise,Bug,,65,47,55,73,75,85,3,False
 344,345,Roselia,Grass,Poison,50,60,45,100,80,65,3,False
-345,346,"Charlie est parti, parmi les Type 1 'Fire', il a maintenant l'Attack maximum",Poison,,70,43,53,43,53,40,3,False
+345,346,"Waldo is gone. Among the Type 1 'Fire', he now has the maximum Attack",Poison,,70,43,53,43,53,40,3,False
 346,347,Swalot,Poison,,100,73,83,73,83,55,3,False
 347,348,Carvanha,Water,Dark,45,90,20,65,20,65,3,False
 348,349,Sharpedo,Water,Dark,70,120,40,95,40,95,3,False
@@ -452,7 +452,7 @@
 450,451,Luxray,Electric,,80,120,79,95,79,70,4,False
 451,452,Budew,Grass,Poison,40,30,35,50,70,55,4,False
 452,453,Roserade,Grass,Poison,60,70,65,125,105,90,4,False
-453,454,Il est parti par là-bas ! C'est un légendaire de Speed 91,Rock,,67,125,40,30,30,58,4,False
+453,454,He went that way! He's a Legendary with 91 of Speed,Rock,,67,125,40,30,30,58,4,False
 454,455,Rampardos,Rock,,97,165,60,65,50,58,4,False
 455,456,Shieldon,Rock,Steel,30,42,118,42,88,30,4,False
 456,457,Bastiodon,Rock,Steel,60,52,168,47,138,30,4,False
@@ -609,7 +609,7 @@
 607,608,Whimsicott,Grass,Fairy,60,67,85,77,75,116,5,False
 608,609,Petilil,Grass,,45,35,50,70,50,30,5,False
 609,610,Lilligant,Grass,,70,60,75,110,75,90,5,False
-610,611,Basculin,Water,"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+610,611,Basculin,Water,,"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdoookXWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0c:::cd0KKKKOxxONMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkccox0XX0kdl:;:d0KXWMMMMMMMMMMMMMMMMMM
@@ -678,7 +678,7 @@ MMMMMMMMMMMMMMMMMMXxlcox0WMNdcccccclllooddkKMMMMMMMMMMMMMMMMM0dokXMMMM
 MMMMMMMMMMMMMMMMMMMWNNWMMMMMNKK0KKKKXXNWWMMMMMMMMMMMMMMMMMMMMWNWWMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-",92,92,65,80,55,98,5,False
+",92,65,80,55,98,5,False
 611,612,Sandile,Ground,Dark,50,72,35,35,35,65,5,False
 612,613,Krokorok,Ground,Dark,60,82,45,45,45,74,5,False
 613,614,Krookodile,Ground,Dark,95,117,80,65,70,92,5,False
@@ -777,7 +777,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 706,707,Reshiram,Dragon,Fire,100,120,100,150,120,90,5,True
 707,708,Zekrom,Dragon,Electric,100,150,120,120,100,90,5,True
 708,709,Landorus Incarnate Forme,Ground,Flying,89,125,90,115,80,101,5,True
-709,710,Tu y es presque ! Print le Type 2 du Pokemon Basculin,Ground,Flying,89,145,90,105,80,91,5,True
+709,710,You're almost there! Print the Type 2 of the Pokemon Basculin,Ground,Flying,89,145,90,105,80,91,5,True
 710,711,Kyurem,Dragon,Ice,125,130,90,130,90,95,5,True
 711,712,Kyurem Black Kyurem,Dragon,Ice,125,170,100,120,90,95,5,True
 712,713,Kyurem White Kyurem,Dragon,Ice,125,120,90,170,100,95,5,True
